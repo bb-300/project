@@ -1,0 +1,501 @@
+,pos,album_name,artist,releasedate,avg_rating,total_rating,total_reviews,pr_genres,sec_genres,tags
+0, 1, OK Computer, Radiohead, 16 June 1997, 4.24, 76874, 1564, Alternative Rock, Art Rock, melancholic, anxious, futuristic, male vocals, alienation, existential, atmospheric, lonely
+1, 2, To Pimp a Butterfly, Kendrick Lamar, 15 March 2015, 4.31, 51488, 433, Conscious Hip Hop, West Coast Hip Hop, Jazz Rap, political, conscious, concept album, poetic, protest, introspective, urban, male vocals
+2, 3, Wish You Were Here, Pink Floyd, 12 September 1975, 4.30, 53096, 1016, Progressive Rock, Art Rock, melancholic, atmospheric, progressive, male vocals, concept album, serious, introspective, longing
+3, 4, In the Court of the Crimson King, King Crimson, 10 October 1969, 4.30, 49042, 845, Progressive Rock, Art Rock, fantasy, epic, progressive, complex, philosophical, poetic, surreal, male vocals
+4, 5, Kid A, Radiohead, 3 October 2000, 4.23, 63833, 765, Art Rock, Experimental Rock, Electronic, cold, melancholic, futuristic, atmospheric, anxious, cryptic, sombre, abstract
+5, 6, Loveless, My Bloody Valentine, 11 November 1991, 4.24, 55174, 1272, Shoegaze, Noise Pop, noisy, ethereal, atmospheric, romantic, love, hypnotic, dense, psychedelic
+6, 7, Madvillainy, Madvillain, 23 March 2004, 4.29, 40804, 404, Abstract Hip Hop, sampling, playful, humorous, abstract, cryptic, mysterious, eclectic, male vocals
+7, 8, The Dark Side of the Moon, Pink Floyd, 23 March 1973, 4.21, 62022, 1565, Art Rock, Progressive Rock, philosophical, atmospheric, existential, introspective, mellow, concept album, male vocals, psychedelic
+8, 9, Abbey Road, The Beatles, 26 September 1969, 4.26, 48554, 977, Pop Rock, melodic, warm, male vocals, summer, bittersweet, uplifting, love, sentimental
+9, 10, The Rise and Fall of Ziggy Stardust and the Spiders From Mars, David Bowie, 16 June 1972, 4.26, 42965, 733, Glam Rock, Pop Rock, science fiction, melodic, male vocals, concept album, passionate, rock opera, anthemic, bittersweet
+10, 11, The Black Saint and the Sinner Lady, Mingus, July 1963, 4.34, 22337, 373, Avant-Garde Jazz, Third Stream, instrumental, complex, passionate, suite, dense, suspenseful, avant-garde, technical
+11, 12, The Velvet Underground & Nico, The Velvet Underground &, 12 March 1967, 4.23, 48953, 952, Art Rock, Experimental Rock, drugs, sexual, raw, noisy, urban, avant-garde, male vocals, female vocals
+12, 13, In Rainbows, Radiohead, 10 October 2007, 4.21, 53471, 766, Art Rock, Alternative Rock, lush, male vocals, introspective, melancholic, bittersweet, atmospheric, mellow, warm
+13, 14, Remain in Light, Talking Heads, 8 October 1980, 4.25, 39625, 537, New Wave, Post-Punk, rhythmic, anxious, energetic, male vocals, playful, cryptic, abstract, quirky
+14, 15, Revolver, The Beatles, 5 August 1966, 4.23, 46805, 1175, Pop Rock, Psychedelic Pop, psychedelic, melodic, male vocals, eclectic, drugs, playful, warm, quirky
+15, 16, A Love Supreme, John Coltrane, February 1965, 4.30, 27329, 448, Spiritual Jazz, Avant-Garde Jazz, improvisation, passionate, spiritual, instrumental, complex, suite, acoustic, avant-garde
+16, 17, good kid, m.A.A.d city, Kendrick Lamar, 22 October 2012, 4.23, 44801, 327, West Coast Hip Hop, Conscious Hip Hop, urban, crime, concept album, conscious, introspective, male vocals, passionate, Christian
+17, 18, Kind of Blue, Miles Davis, 17 August 1959, 4.24, 32179, 558, Modal Jazz, Cool Jazz, instrumental, mellow, improvisation, nocturnal, soothing, calm, acoustic, meditative
+18, 19, Paranoid, Black Sabbath, 18 September 1970, 4.20, 38778, 598, Heavy Metal, Hard Rock, heavy, dark, war, political, ominous, male vocals, science fiction, drugs
+19, 20, Illmatic, Nas, 19 April 1994, 4.21, 34353, 623, East Coast Hip Hop, Boom Bap, Hardcore Hip Hop, urban, crime, introspective, sampling, drugs, conscious, rhythmic, philosophical
+20, 21, Pet Sounds, The Beach Boys, 16 May 1966, 4.18, 38963, 759, Baroque Pop, bittersweet, Wall of Sound, warm, love, romantic, melodic, lush, melancholic
+21, 22, Lift Yr. Skinny Fists Like Antennas to Heaven!, Godspeed You Black Emperor!, 9 October 2000, 4.18, 37950, 630, Post-Rock, instrumental, epic, melancholic, atmospheric, apocalyptic, suspenseful, suite, sampling
+22, 23, Red, King Crimson, 6 October 1974, 4.22, 25598, 425, Progressive Rock, Art Rock, dark, anxious, heavy, technical, ominous, complex, uncommon time signatures, progressive
+23, 24, Enter the Wu-Tang (36 Chambers), Wu-Tang Clan, 9 November 1993, 4.20, 30138, 421, East Coast Hip Hop, Boom Bap, Hardcore Hip Hop, urban, aggressive, raw, crime, boastful, rhythmic, violence, energetic
+24, 25, Pink Moon, Nick Drake, 25 February 1972, 4.19, 32240, 565, Contemporary Folk, Singer-Songwriter, acoustic, melancholic, lonely, mellow, introspective, poetic, calm, male vocals
+25, 26, Disintegration, The Cure, 2 May 1989, 4.19, 32229, 435, Gothic Rock, Post-Punk, melancholic, ethereal, romantic, atmospheric, nocturnal, sad, bittersweet, love
+26, 27, Sgt. Pepper's Lonely Hearts Club Band, The Beatles, 1 June 1967, 4.13, 46974, 891, Psychedelic Pop, Pop Rock, psychedelic, playful, melodic, male vocals, lush, eclectic, optimistic, warm
+27, 28, In the Aeroplane Over the Sea, Neutral Milk Hotel, 10 February 1998, 4.09, 52083, 992, Indie Folk, Indie Rock, passionate, poetic, death, cryptic, surreal, acoustic, bittersweet, male vocals
+28, 29, Spiderland, Slint, 27 March 1991, 4.15, 36342, 461, Post-Rock, Post-Hardcore, Math Rock, lonely, anxious, sombre, uncommon time signatures, dark, suspenseful, atmospheric, melancholic
+29, 30, My Beautiful Dark Twisted Fantasy, Kanye West, 22 November 2010, 4.09, 54781, 663, Pop Rap, Hip Hop, epic, boastful, passionate, sampling, hedonistic, vulgar, anthemic, male vocals
+30, 31, Animals, Pink Floyd, 21 January 1977, 4.14, 39353, 702, Progressive Rock, Art Rock, political, philosophical, pessimistic, concept album, sarcastic, progressive, satirical, male vocals
+31, 32, The Beatles [White Album], The Beatles, 22 November 1968, 4.14, 38342, 1093, Pop Rock, Rock, eclectic, melodic, playful, male vocals, introspective, quirky, energetic, love
+32, 33, In a Silent Way, Miles Davis, 30 July 1969, 4.22, 18771, 297, Jazz Fusion, Modal Jazz, instrumental, mellow, atmospheric, improvisation, nocturnal, mysterious, soothing, calm
+33, 34, Highway 61 Revisited, Bob Dylan, 30 August 1965, 4.18, 27919, 580, Folk Rock, Singer-Songwriter, poetic, cryptic, surreal, sarcastic, male vocals, passionate, conscious, rebellious
+34, 35, The Queen Is Dead, The Smiths, 16 June 1986, 4.13, 38589, 546, Jangle Pop, Indie Pop, lonely, melancholic, sarcastic, melodic, poetic, bittersweet, introspective, male vocals
+35, 36, Unknown Pleasures, Joy Division, 15 June 1979, 4.11, 42829, 595, Post-Punk, sombre, dark, cold, anxious, lonely, introspective, atmospheric, depressive
+36, 37, Long Season, Fishmans, 25 October 1996, 4.18, 24502, 176, Dream Pop, Neo-Psychedelia, Progressive Pop, atmospheric, lush, repetitive, mellow, psychedelic, warm, aquatic, melodic
+37, 38, Doolittle, Pixies, 17 April 1989, 4.12, 36571, 559, Alternative Rock, Indie Rock, energetic, anxious, playful, male vocals, manic, noisy, humorous, raw
+38, 39, Hounds of Love, Kate Bush, 16 September 1985, 4.16, 25646, 277, Art Pop, Progressive Pop, female vocals, passionate, love, romantic, lush, ethereal, concept album, poetic
+39, 40, Dummy, Portishead, 22 August 1994, 4.13, 33054, 412, Trip Hop, melancholic, mysterious, atmospheric, dark, nocturnal, mellow, introspective, sampling
+40, 41, Vespertine, Björk, 27 August 2001, 4.16, 26217, 276, Art Pop, Electronic, sensual, romantic, sexual, winter, ethereal, lush, atmospheric, passionate
+41, 42, Led Zeppelin [IV], Led Zeppelin, 8 November 1971, 4.11, 37193, 873, Hard Rock, fantasy, folklore, male vocals, energetic, passionate, rhythmic, rebellious, melodic
+42, 43, Low, David Bowie, 14 January 1977, 4.13, 31336, 527, Art Rock, atmospheric, lonely, sombre, futuristic, melancholic, abstract, cryptic, male vocals
+43, 44, 98.12.28 男達の別れ (98.12.28 Otokotachi no Wakare), Fishmans, 29 September 1999, 4.37, 12858, 176, Dream Pop, Neo-Psychedelia, bittersweet, ethereal, passionate, mellow, atmospheric, psychedelic, melodic, melancholic
+44, 45, Songs in the Key of Life, Stevie Wonder, 28 September 1976, 4.21, 14037, 259, Soul, uplifting, male vocals, passionate, warm, melodic, optimistic, philosophical, happy
+45, 46, Blonde on Blonde, Bob Dylan, 20 June 1966, 4.16, 23495, 463, Folk Rock, Singer-Songwriter, poetic, surreal, cryptic, sarcastic, bittersweet, introspective, romantic, male vocals
+46, 47, F♯A♯∞, Godspeed You Black Emperor!, 14 August 1997, 4.13, 29072, 380, Post-Rock, apocalyptic, instrumental, atmospheric, sombre, dark, ominous, lonely, epic
+47, 48, Bitches Brew, Miles Davis, 30 March 1970, 4.17, 20567, 325, Jazz Fusion, Avant-Garde Jazz, psychedelic, instrumental, improvisation, complex, dense, mysterious, surreal, atmospheric
+48, 49, Marquee Moon, Television, 8 February 1977, 4.13, 27493, 395, Art Punk, Art Rock, male vocals, rhythmic, poetic, cryptic, technical, introspective, philosophical, anxious
+49, 50, Blood on the Tracks, Bob Dylan, 20 January 1975, 4.16, 20459, 426, Singer-Songwriter, Folk Rock, breakup, lonely, poetic, introspective, love, melancholic, passionate, bittersweet
+50, 51, Close to the Edge, Yes, 8 September 1972, 4.14, 23650, 470, Symphonic Prog, Progressive Rock, epic, uplifting, complex, technical, progressive, fantasy, male vocals, lush
+51, 52, Endtroducing....., DJ Shadow, 19 November 1996, 4.12, 29260, 419, Instrumental Hip Hop, Experimental Hip Hop, Plunderphonics, sampling, instrumental, atmospheric, urban, mysterious, nocturnal, rhythmic, hypnotic
+52, 53, Souvlaki, Slowdive, 1 June 1993, 4.11, 32018, 314, Dream Pop, Shoegaze, melancholic, ethereal, mellow, romantic, atmospheric, female vocals, soothing, male vocals
+53, 54, The Glow Pt. 2, The Microphones, 11 September 2001, 4.12, 26995, 259, Indie Folk, Psychedelic Folk, Lo-Fi / Slacker Rock, lonely, lo-fi, melancholic, nature, introspective, forest, male vocals, atmospheric
+54, 55, The Low End Theory, A Tribe Called Quest, 24 September 1991, 4.13, 26748, 300, Jazz Rap, East Coast Hip Hop, Conscious Hip Hop, rhythmic, urban, mellow, sampling, male vocals, conscious, playful, boastful
+55, 56, The Doors, The Doors, 4 January 1967, 4.10, 32974, 573, Psychedelic Rock, psychedelic, drugs, sexual, poetic, dark, male vocals, cryptic, mysterious
+56, 57, Electric Ladyland, The Jimi Hendrix Experience, 25 October 1968, 4.15, 21546, 443, Blues Rock, Psychedelic Rock, Acid Rock, psychedelic, drugs, sensual, surreal, energetic, sexual, male vocals, passionate
+57, 58, Master of Reality, Black Sabbath, 21 July 1971, 4.12, 26138, 450, Heavy Metal, heavy, dark, male vocals, sombre, rhythmic, nocturnal, drugs, alienation
+58, 59, Closer, Joy Division, 18 July 1980, 4.09, 30727, 572, Post-Punk, sombre, cold, lonely, depressive, dark, introspective, atmospheric, anxious
+59, 60, Atrocity Exhibition, Danny Brown, 30 September 2016, 4.10, 28609, 202, Experimental Hip Hop, Hardcore Hip Hop, drugs, dark, manic, abstract, psychedelic, male vocals, chaotic, sexual
+60, 61, Are You Experienced, The Jimi Hendrix Experience, 12 May 1967, 4.12, 24930, 514, Blues Rock, Psychedelic Rock, Acid Rock, psychedelic, energetic, sexual, drugs, raw, male vocals, hedonistic, heavy
+61, 62, The Money Store, Death Grips, 24 April 2012, 4.05, 41174, 343, Industrial Hip Hop, Hardcore Hip Hop, Experimental Hip Hop, aggressive, manic, energetic, angry, noisy, nihilistic, drugs, raw
+62, 63, Homogenic, Björk, 22 September 1997, 4.09, 30337, 322, Art Pop, Electronic, cold, passionate, ethereal, female vocals, lush, atmospheric, introspective, anxious
+63, 64, Either / Or, Elliott Smith, 25 February 1997, 4.11, 24864, 277, Singer-Songwriter, Indie Folk, melancholic, mellow, acoustic, depressive, introspective, lonely, melodic, male vocals
+64, 65, Soundtracks for the Blind, Swans, 22 October 1996, 4.12, 19418, 230, Experimental Rock, Post-Rock, Experimental, sombre, atmospheric, ominous, dark, disturbing, lonely, misanthropic, mysterious
+65, 66, Songs of Leonard Cohen, Leonard Cohen, 27 December 1967, 4.14, 18410, 300, Contemporary Folk, Singer-Songwriter, poetic, sombre, acoustic, introspective, melancholic, philosophical, male vocals, love
+66, 67, The College Dropout, Kanye West, 10 February 2004, 4.06, 40116, 296, Chipmunk Soul, Pop Rap, humorous, conscious, sampling, playful, male vocals, passionate, boastful, satirical
+67, 68, Heaven or Las Vegas, Cocteau Twins, 17 September 1990, 4.10, 25661, 218, Dream Pop, ethereal, atmospheric, female vocals, lush, warm, soothing, romantic, cryptic
+68, 69, Illinois, Sufjan Stevens, 5 July 2005, 4.08, 29417, 410, Chamber Pop, Singer-Songwriter, lush, melodic, concept album, Christian, male vocals, bittersweet, warm, sentimental
+69, 70, What's Going On, Marvin Gaye, 21 May 1971, 4.12, 20834, 346, Soul, conscious, passionate, political, mellow, male vocals, lush, melodic, Christian
+70, 71, Blonde, Frank Ocean, 20 August 2016, 4.06, 34587, 322, Alternative R&B, Art Pop, Neo-Soul, introspective, LGBT, bittersweet, mellow, sexual, atmospheric, drugs, sensual
+71, 72, Laughing Stock, Talk Talk, 19 November 1991, 4.12, 20148, 306, Post-Rock, atmospheric, sombre, spiritual, religious, introspective, improvisation, sparse, melancholic
+72, 73, ★ [Blackstar], David Bowie, 8 January 2016, 4.08, 27789, 310, Art Rock, death, dark, introspective, poetic, male vocals, melancholic, concept album, funereal
+73, 74, Station to Station, David Bowie, 23 January 1976, 4.11, 22913, 373, Art Rock, drugs, anxious, lonely, introspective, male vocals, cryptic, alienation, passionate
+74, 75, The Complete Peel Sessions 1978-2004, The Fall, 25 April 2005, 4.36, 768, 47, Post-Punk, male vocals, repetitive, abstract, rhythmic, cryptic, urban, misanthropic, raw
+75, 76, The Velvet Underground, The Velvet Underground, March 1969, 4.10, 23786, 407, Pop Rock, mellow, melancholic, bittersweet, melodic, introspective, male vocals, soft, nocturnal
+76, 77, Liquid Swords, Genius/GZA, 7 November 1995, 4.11, 18844, 331, East Coast Hip Hop, Hardcore Hip Hop, Boom Bap, dark, urban, atmospheric, crime, philosophical, raw, rhythmic, sampling
+77, 78, Future Days, Can, September 1973, 4.12, 17579, 253, Krautrock, warm, hypnotic, atmospheric, rhythmic, tropical, summer, psychedelic, mellow
+78, 79, Ride the Lightning, Metallica, 30 July 1984, 4.06, 29836, 552, Thrash Metal, heavy, energetic, aggressive, male vocals, death, dark, angry, apocalyptic
+79, 80, Bringing It All Back Home, Bob Dylan, 22 March 1965, 4.11, 17727, 392, Folk Rock, Singer-Songwriter, Contemporary Folk, poetic, sarcastic, male vocals, satirical, surreal, conscious, cryptic, political
+80, 81, Aquemini, OutKast, 29 September 1998, 4.11, 17793, 166, Southern Hip Hop, Conscious Hip Hop, conscious, male vocals, lush, urban, mellow, boastful, warm, rhythmic
+81, 82, Daydream Nation, Sonic Youth, 18 October 1988, 4.05, 29896, 502, Noise Rock, Alternative Rock, energetic, anxious, raw, noisy, rebellious, urban, male vocals, female vocals
+82, 83, Tago Mago, Can, August 1971, 4.08, 23497, 482, Krautrock, Psychedelic Rock, Experimental Rock, psychedelic, surreal, improvisation, hypnotic, avant-garde, rhythmic, cryptic, abstract
+83, 84, Rubber Soul, The Beatles, 3 December 1965, 4.03, 36309, 727, Pop Rock, melodic, love, male vocals, romantic, bittersweet, mellow, autumn, melancholic
+84, 85, Selected Ambient Works 85-92, Aphex Twin, 9 November 1992, 4.05, 31231, 319, Ambient Techno, IDM, atmospheric, ethereal, futuristic, instrumental, hypnotic, soothing, mellow, rhythmic
+85, 86, Black Sabbath, Black Sabbath, 13 February 1970, 4.07, 26844, 569, Heavy Metal, Hard Rock, occult, dark, ominous, sombre, fantasy, heavy, male vocals, psychedelic
+86, 87, Midnight Marauders, A Tribe Called Quest, 9 November 1993, 4.10, 17620, 176, East Coast Hip Hop, Jazz Rap, Boom Bap, rhythmic, urban, nocturnal, mellow, playful, male vocals, sampling, boastful
+87, 88, Donuts, J Dilla, 7 February 2006, 4.08, 21347, 282, Instrumental Hip Hop, sampling, instrumental, bittersweet, eclectic, playful, warm, repetitive, rhythmic
+88, 89, After the Gold Rush, Neil Young, 19 September 1970, 4.09, 19417, 383, Folk Rock, Singer-Songwriter, Country Rock, introspective, mellow, melancholic, poetic, lonely, pastoral, bittersweet, male vocals
+89, 90, Ágætis byrjun, Sigur Rós, 12 June 1999, 4.05, 28411, 504, Post-Rock, ethereal, atmospheric, soothing, melancholic, mellow, winter, calm, lush
+90, 91, Innervisions, Stevie Wonder, 3 August 1973, 4.12, 13518, 252, Soul, political, passionate, male vocals, romantic, warm, conscious, melodic, soft
+91, 92, Mm.. Food, MF DOOM, 16 November 2004, 4.08, 23121, 153, East Coast Hip Hop, Abstract Hip Hop, sampling, concept album, playful, humorous, abstract, male vocals, quirky, rhythmic
+92, 93, Fun House, The Stooges, September 1970, 4.08, 19005, 457, Proto-Punk, Garage Rock, Hard Rock, energetic, raw, sexual, rebellious, hedonistic, aggressive, manic, noisy
+93, 94, Giant Steps, John Coltrane, 27 January 1960, 4.11, 15050, 196, Hard Bop, instrumental, energetic, technical, improvisation, acoustic, complex, playful, rhythmic
+94, 95, Rain Dogs, Tom Waits, 30 September 1985, 4.07, 20476, 357, Singer-Songwriter, Experimental Rock, poetic, urban, eclectic, alcohol, nocturnal, crime, surreal, male vocals
+95, 96, Carrie & Lowell, Sufjan Stevens, 31 March 2015, 4.06, 24182, 226, Indie Folk, Singer-Songwriter, death, melancholic, sad, acoustic, poetic, peaceful, soft, male vocals
+96, 97, Karma, Pharoah Sanders, May 1969, 4.12, 10727, 149, Spiritual Jazz, spiritual, uplifting, passionate, religious, avant-garde, male vocals, warm, hypnotic
+97, 98, Hunky Dory, David Bowie, 17 December 1971, 4.04, 29774, 523, Pop Rock, Glam Rock, Art Rock, playful, melodic, quirky, male vocals, warm, lush, melancholic, introspective
+98, 99, Spirit of Eden, Talk Talk, 16 September 1988, 4.07, 18989, 230, Post-Rock, Art Rock, atmospheric, religious, passionate, peaceful, introspective, male vocals, meditative, spiritual
+99, 100, Hot Rats, Frank Zappa, 10 October 1969, 4.06, 20635, 370, Jazz-Rock, Jazz Fusion, complex, playful, technical, energetic, instrumental, progressive, dense, quirky
+100, 101, Symbolic, Death, 21 March 1995, 4.08, 15367, 230, Technical Death Metal, philosophical, complex, technical, passionate, introspective, existential, heavy, progressive
+101, 102, Master of Puppets, Metallica, 3 March 1986, 4.01, 32858, 739, Thrash Metal, aggressive, heavy, energetic, angry, male vocals, rebellious, political, serious
+102, 103, London Calling, The Clash, 14 December 1979, 4.02, 30355, 758, New Wave, Punk Rock, political, energetic, rebellious, eclectic, male vocals, rhythmic, passionate, urban
+103, 104, Mezzanine, Massive Attack, 20 April 1998, 4.04, 26045, 348, Trip Hop, dark, nocturnal, mysterious, atmospheric, urban, anxious, hypnotic, melancholic
+104, 105, Odessey and Oracle, The Zombies, 19 April 1968, 4.08, 16696, 424, Psychedelic Pop, Baroque Pop, melodic, love, psychedelic, bittersweet, romantic, peaceful, male vocals, spring
+105, 106, My Favorite Things, John Coltrane, March 1961, 4.11, 12723, 157, Modal Jazz, Post-Bop, instrumental, warm, improvisation, passionate, technical, bittersweet, uplifting, acoustic
+106, 107, On the Beach, Neil Young, 19 July 1974, 4.10, 13694, 325, Singer-Songwriter, Country Rock, Folk Rock, introspective, melancholic, lonely, mellow, sombre, male vocals, sentimental, poetic
+107, 108, Funeral, Arcade Fire, 14 September 2004, 3.98, 39572, 844, Indie Rock, Chamber Pop, passionate, death, melancholic, melodic, autumn, uplifting, bittersweet, poetic
+108, 109, Deathconsciousness, Have a Nice Life, 24 January 2008, 4.03, 25812, 243, Post-Punk, Shoegaze, depressive, dark, atmospheric, sombre, suicide, lo-fi, misanthropic, death
+109, 110, Hatful of Hollow, The Smiths, 12 November 1984, 4.08, 16254, 97, Jangle Pop, Indie Pop, melancholic, melodic, lonely, LGBT, male vocals, introspective, bittersweet, sentimental
+110, 111, White Light / White Heat, The Velvet Underground, 30 January 1968, 4.03, 25941, 520, Experimental Rock, Noise Rock, Proto-Punk, drugs, noisy, sexual, raw, dissonant, lo-fi, chaotic, energetic
+111, 112, The Downward Spiral, Nine Inch Nails, 8 March 1994, 4.03, 25122, 432, Industrial Rock, misanthropic, suicide, angry, nihilistic, dark, depressive, self-hatred, aggressive
+112, 113, The Lonesome Crowded West, Modest Mouse, 18 November 1997, 4.06, 18790, 259, Indie Rock, anxious, angry, lonely, passionate, existential, raw, sarcastic, alcohol
+113, 114, Mingus Ah Um, Charles Mingus, 14 September 1959, 4.09, 12994, 172, Post-Bop, instrumental, energetic, passionate, playful, improvisation, acoustic, uplifting, complex
+114, 115, Clube da Esquina, Milton Nascimento &, March 1972, 4.11, 9314, 96, MPB, male vocals, passionate, lush, summer, bittersweet, warm, melodic, eclectic
+115, 116, Velocity : Design : Comfort, Sweet Trip, 17 June 2003, 4.05, 19310, 193, Glitch Pop, IDM, futuristic, mechanical, playful, atmospheric, ethereal, abstract, female vocals, love
+116, 117, Late Registration, Kanye West, 30 August 2005, 4.00, 35573, 249, Hip Hop, Pop Rap, sampling, male vocals, humorous, warm, passionate, lush, conscious, uplifting
+117, 118, In utero, Nirvana, 21 September 1993, 3.98, 36051, 553, Grunge, noisy, raw, sarcastic, pessimistic, angry, male vocals, anxious, dissonant
+118, 119, Nevermind, Nirvana, 24 September 1991, 3.93, 47212, 957, Grunge, Alternative Rock, energetic, rebellious, angry, apathetic, sarcastic, male vocals, alienation, passionate
+119, 120, The Infamous, Mobb Deep, 25 April 1995, 4.08, 12375, 191, East Coast Hip Hop, Gangsta Rap, Boom Bap, crime, urban, dark, violence, atmospheric, rhythmic, male vocals, sampling
+120, 121, Music for 18 Musicians, Steve Reich /, April 1978, 4.08, 10140, 150, Minimalism, hypnotic, repetitive, rhythmic, minimalistic, ethereal, atmospheric, soothing, female vocals
+121, 122, Five Leaves Left, Nick Drake, 1 September 1969, 4.05, 17808, 291, Singer-Songwriter, Chamber Folk, Contemporary Folk, mellow, lonely, peaceful, poetic, melancholic, introspective, melodic, acoustic
+122, 123, Igor, Tyler, the Creator, 17 May 2019, 3.96, 38049, 336, Neo-Soul, breakup, LGBT, male vocals, love, concept album, lush, sentimental, warm
+123, 124, All Things Must Pass, George Harrison, 30 November 1970, 4.06, 13169, 336, Pop Rock, Singer-Songwriter, Folk Rock, Wall of Sound, spiritual, uplifting, introspective, existential, religious, melodic, passionate
+124, 125, Pornography, The Cure, 3 May 1982, 4.02, 22396, 291, Gothic Rock, Post-Punk, dark, cold, sombre, depressive, atmospheric, anxious, male vocals, ominous
+125, 126, Everybody Knows This Is Nowhere, Neil Young with Crazy Horse, 14 May 1969, 4.06, 13458, 275, Country Rock, Singer-Songwriter, bittersweet, pastoral, melancholic, male vocals, raw, melodic, sentimental, romantic
+126, 127, The Smile Sessions, The Beach Boys, 1 November 2011, 4.23, 8542, 175, Baroque Pop, Psychedelic Pop, Progressive Pop, psychedelic, playful, melodic, complex, Wall of Sound, surreal, humorous, lush
+127, 128, Another Green World, Eno, 14 November 1975, 4.03, 19670, 313, Art Rock, peaceful, atmospheric, meditative, mysterious, surreal, calm, male vocals, futuristic
+128, 129, ATLiens, OutKast, 27 August 1996, 4.05, 14730, 124, Southern Hip Hop, mellow, urban, male vocals, atmospheric, conscious, science fiction, philosophical, nocturnal
+129, 130, Since I Left You, The Avalanches, 27 November 2000, 4.01, 23483, 289, Plunderphonics, Dance, sampling, summer, tropical, warm, eclectic, party, rhythmic, uplifting
+130, 131, The Bootleg Series Vol. 4: Live 1966 - The "Royal Albert Hall" Concert, Bob Dylan, 13 October 1998, 4.26, 3573, 140, Folk Rock, Contemporary Folk, Singer-Songwriter, raw, acoustic, poetic, male vocals, passionate, cryptic, energetic, romantic
+131, 132, Ants From Up There, Black Country, New Road, 4 February 2022, 4.02, 19968, 349, Art Rock, Post-Rock, Chamber Pop, longing, melancholic, passionate, lush, sentimental, male vocals, love, bittersweet
+132, 133, To Be Kind, Swans, 13 May 2014, 4.00, 22268, 266, Experimental Rock, Post-Rock, repetitive, epic, atmospheric, noisy, aggressive, heavy, ominous, hypnotic
+133, 134, Ege Bamyası, Can, October 1972, 4.03, 18054, 246, Krautrock, rhythmic, hypnotic, cryptic, surreal, atmospheric, psychedelic, male vocals, mysterious
+134, 135, Blue, Joni Mitchell, 22 June 1971, 4.03, 16318, 317, Singer-Songwriter, Contemporary Folk, acoustic, female vocals, melancholic, bittersweet, melodic, sentimental, romantic, breakup
+135, 136, The Kinks Are the Village Green Preservation Society, The Kinks, 22 November 1968, 4.05, 13311, 330, Pop Rock, melodic, warm, bittersweet, summer, pastoral, sentimental, male vocals, quirky
+136, 137, Discovery, Daft Punk, 13 March 2001, 3.98, 29224, 304, French House, energetic, futuristic, party, sampling, rhythmic, playful, repetitive, happy
+137, 138, Songs of Love and Hate, Leonard Cohen, 17 March 1971, 4.05, 12662, 184, Singer-Songwriter, Contemporary Folk, acoustic, melancholic, poetic, sombre, dark, male vocals, introspective, pessimistic
+138, 139, Journey in Satchidananda, Alice Coltrane featuring Pharoah Sanders, February 1971, 4.07, 9103, 87, Spiritual Jazz, instrumental, meditative, hypnotic, spiritual, psychedelic, avant-garde, warm, ethereal
+139, 140, Rumours, Fleetwood Mac, 4 February 1977, 4.00, 22566, 401, Pop Rock, Soft Rock, breakup, bittersweet, melodic, female vocals, male vocals, mellow, melancholic, passionate
+140, 141, The Dreaming, Kate Bush, 1 September 1982, 4.04, 14307, 234, Art Pop, Progressive Pop, manic, playful, female vocals, anxious, surreal, complex, quirky, progressive
+141, 142, The Great Deceiver: Live 1973-1974, King Crimson, 30 October 1992, 4.26, 1415, 52, Progressive Rock, technical, improvisation, cryptic, complex, progressive, male vocals, anxious, uncommon time signatures
+142, 143, Live at Massey Hall 1971, Neil Young, 13 March 2007, 4.24, 3262, 124, Singer-Songwriter, Contemporary Folk, melancholic, acoustic, male vocals, bittersweet, passionate, sparse, pastoral, poetic
+143, 144, Rust in Peace, Megadeth, 21 September 1990, 4.01, 19481, 571, Thrash Metal, energetic, political, war, technical, male vocals, aggressive, heavy, conscious
+144, 145, Swans Are Dead, Swans, 20 January 1998, 4.24, 4214, 46, Experimental Rock, Post-Rock, apocalyptic, heavy, sombre, melancholic, misanthropic, raw, atmospheric, noisy
+145, 146, Sticky Fingers, The Rolling Stones, 23 April 1971, 4.02, 17469, 380, Blues Rock, drugs, sexual, male vocals, energetic, hedonistic, rebellious, passionate, melodic
+146, 147, Larks' Tongues in Aspic, King Crimson, 23 March 1973, 4.02, 17071, 290, Progressive Rock, uncommon time signatures, complex, technical, anxious, progressive, male vocals, avant-garde, philosophical
+147, 148, Ready to Die, The Notorious B.I.G., 13 September 1994, 4.03, 16377, 240, East Coast Hip Hop, Gangsta Rap, Boom Bap, crime, boastful, vulgar, sexual, urban, drugs, rhythmic, nihilistic
+148, 149, Fear of Music, Talking Heads, 3 August 1979, 4.01, 20194, 249, New Wave, Post-Punk, anxious, rhythmic, sarcastic, energetic, playful, quirky, male vocals, abstract
+149, 150, Ys, Joanna Newsom, 14 November 2006, 4.00, 17569, 306, Chamber Folk, Singer-Songwriter, Progressive Folk, poetic, passionate, pastoral, complex, female vocals, lush, spring, melodic
+150, 151, Violator, Depeche Mode, 19 March 1990, 4.00, 20783, 361, Synthpop, dark, sombre, romantic, sensual, male vocals, nocturnal, melodic, atmospheric
+151, 152, Raw Power, Iggy and The Stooges, February 1973, 4.03, 16080, 383, Proto-Punk, Garage Rock, Hard Rock, raw, sexual, energetic, noisy, rebellious, heavy, hedonistic, male vocals
+152, 153, Forever Changes, Love, November 1967, 4.01, 19220, 531, Psychedelic Pop, Psychedelic Rock, Psychedelic Folk, psychedelic, philosophical, melodic, existential, bittersweet, introspective, warm, summer
+153, 154, Grace, Jeff Buckley, 23 August 1994, 3.99, 23275, 573, Singer-Songwriter, Alternative Rock, passionate, melancholic, bittersweet, romantic, love, introspective, poetic, male vocals
+154, 155, Piñata, Freddie Gibbs & Madlib, 18 March 2014, 4.01, 19607, 122, Gangsta Rap, crime, urban, drugs, boastful, sampling, male vocals, violence, vulgar
+155, 156, Meddle, Pink Floyd, 5 November 1971, 3.97, 29871, 534, Progressive Rock, mellow, psychedelic, atmospheric, progressive, mysterious, hypnotic, male vocals, calm
+156, 157, Perfect From Now On, Built to Spill, 28 January 1997, 4.03, 14193, 169, Indie Rock, bittersweet, philosophical, melancholic, introspective, male vocals, atmospheric, complex, melodic
+157, 158, Cosmo's Factory, Creedence Clearwater Revival, 25 July 1970, 4.04, 10882, 226, Swamp Rock, energetic, male vocals, melodic, passionate, political, raw, conscious, playful
+158, 159, Is This It, The Strokes, 20 August 2001, 3.94, 34781, 535, Garage Rock Revival, Indie Rock, energetic, male vocals, melodic, urban, apathetic, rebellious, bittersweet, rhythmic
+159, 160, Music Has the Right to Children, Boards of Canada, 20 April 1998, 3.98, 24314, 308, IDM, Downtempo, atmospheric, mellow, hypnotic, mysterious, instrumental, rhythmic, psychedelic, warm
+160, 161, The Name of This Band Is Talking Heads, Talking Heads, 24 March 1982, 4.22, 5154, 111, New Wave, Post-Punk, Art Punk, playful, energetic, anxious, rhythmic, male vocals, sarcastic, humorous, urban
+161, 162, Selling England by the Pound, Genesis, 12 October 1973, 4.01, 15941, 337, Progressive Rock, Symphonic Prog, epic, complex, satirical, melodic, medieval, progressive, philosophical, uncommon time signatures
+162, 163, Symphony No. 9, Ludwig van Beethoven /, 1963, 4.08, 1766, 11, Symphony, Romanticism, symphony, choral, orchestral, acoustic, melodic, uplifting, passionate, triumphant
+163, 164, "Heroes", David Bowie, 14 October 1977, 3.98, 24119, 301, Art Rock, futuristic, atmospheric, male vocals, abstract, anxious, cold, progressive, complex
+164, 165, Art Blakey and The Jazz Messengers [Moanin'], Art Blakey and The Jazz Messengers, January 1959, 4.05, 7911, 101, Hard Bop, instrumental, improvisation, rhythmic, acoustic, passionate, warm, energetic, melodic
+165, 166, Turn On the Bright Lights, Interpol, 20 August 2002, 3.95, 28748, 439, Post-Punk Revival, urban, melancholic, atmospheric, anxious, nocturnal, male vocals, introspective, dark
+166, 167, You Will Never Know Why, Sweet Trip, 28 September 2009, 4.03, 12374, 71, Indie Pop, Dream Pop, bittersweet, ethereal, melancholic, female vocals, melodic, soothing, male vocals, lush
+167, 168, Led Zeppelin, Led Zeppelin, 12 January 1969, 3.95, 29933, 589, Hard Rock, Blues Rock, energetic, heavy, male vocals, raw, sexual, passionate, rebellious, hedonistic
+168, 169, Acabou chorare, Novos Baianos, November 1972, 4.06, 5785, 63, MPB, Samba, happy, playful, summer, energetic, warm, tropical, male vocals, melodic
+169, 170, Sign "☮︎" the Times, Prince, 30 March 1987, 4.03, 9871, 197, Contemporary R&B, Pop Rock, eclectic, sexual, playful, passionate, male vocals, warm, rhythmic, sensual
+170, 171, Expensive Shit, Fela Ransome Kuti & Africa 70, 1975, 4.04, 8191, 81, Afrobeat, rhythmic, energetic, protest, repetitive, passionate, rebellious, conscious, male vocals
+171, 172, Stop Making Sense, Talking Heads, September 1984, 4.20, 7993, 131, New Wave, Post-Punk, Art Rock, energetic, rhythmic, male vocals, quirky, passionate, playful, uplifting, melodic
+172, 173, The Stone Roses, The Stone Roses, 13 March 1989, 3.99, 18601, 408, Baggy, melodic, uplifting, psychedelic, energetic, male vocals, rhythmic, playful, summer
+173, 174, Siamese Dream, Smashing Pumpkins, 26 July 1993, 3.97, 24334, 474, Alternative Rock, bittersweet, melancholic, introspective, dense, noisy, melodic, male vocals, passionate
+174, 175, Harvest, Neil Young, 25 February 1972, 4.00, 17285, 333, Country Rock, Folk Rock, Singer-Songwriter, pastoral, bittersweet, warm, autumn, melodic, male vocals, sentimental, mellow
+175, 176, First Utterance, Comus, 19 February 1971, 4.02, 11465, 241, Progressive Folk, Psychedelic Folk, Freak Folk, pagan, manic, ritualistic, psychedelic, forest, dark, folklore, progressive
+176, 177, Blue Train, John Coltrane, January 1958, 4.02, 12984, 142, Hard Bop, instrumental, improvisation, energetic, acoustic, uplifting, technical, melodic, nocturnal
+177, 178, The Jimi Hendrix Experience, The Jimi Hendrix Experience, 12 September 2000, 4.23, 850, 22, Psychedelic Rock, Blues Rock, Hard Rock, technical, psychedelic, male vocals, drugs, progressive, passionate, energetic, manic
+178, 179, Painkiller, Judas Priest, 3 September 1990, 4.01, 11553, 263, Heavy Metal, energetic, male vocals, fantasy, epic, science fiction, anthemic, heavy, apocalyptic
+179, 180, Leaves Turn Inside You, Unwound, 17 April 2001, 4.01, 12948, 145, Post-Hardcore, Indie Rock, sombre, mysterious, melancholic, cold, male vocals, lonely, cryptic, atmospheric
+180, 181, Curtis, Curtis Mayfield, September 1970, 4.04, 7995, 110, Chicago Soul, conscious, political, passionate, uplifting, warm, rhythmic, male vocals, lush
+181, 182, Untrue, Burial, 5 November 2007, 3.96, 23230, 315, Future Garage, Dubstep, urban, atmospheric, lonely, nocturnal, melancholic, cold, sampling, mysterious
+182, 183, Powerslave, Iron Maiden, 3 September 1984, 3.99, 16734, 323, Heavy Metal, energetic, epic, history, melodic, male vocals, triumphant, anthemic, violence
+183, 184, Thick as a Brick, Jethro Tull, 3 March 1972, 4.01, 12477, 262, Progressive Rock, satirical, complex, concept album, male vocals, progressive, suite, epic, sarcastic
+184, 185, Blues & Roots, Charlie Mingus, March 1960, 4.04, 6726, 118, Post-Bop, improvisation, instrumental, energetic, passionate, acoustic, uplifting, warm, playful
+185, 186, If You're Feeling Sinister, Belle and Sebastian, 18 November 1996, 3.98, 19195, 324, Chamber Pop, Twee Pop, Indie Pop, bittersweet, melancholic, warm, melodic, soft, romantic, poetic, lush
+186, 187, Get Up With It, Miles Davis, 22 November 1974, 4.04, 6124, 100, Jazz Fusion, Jazz-Funk, Avant-Garde Jazz, instrumental, psychedelic, repetitive, hypnotic, atmospheric, surreal, suspenseful, rhythmic
+187, 188, Crooked Rain, Crooked Rain, Pavement, 14 February 1994, 3.97, 19069, 275, Indie Rock, playful, bittersweet, melodic, satirical, male vocals, summer, cryptic, sarcastic
+188, 189, We got it from Here… Thank You 4 Your service, A Tribe Called Quest, 11 November 2016, 4.00, 14800, 104, Conscious Hip Hop, East Coast Hip Hop, Jazz Rap, political, conscious, bittersweet, sampling, urban, male vocals, rhythmic, mellow
+189, 190, Exile on Main St., The Rolling Stones, 26 May 1972, 3.98, 15493, 327, Blues Rock, Rock, playful, sexual, male vocals, rebellious, energetic, raw, drugs, hedonistic
+190, 191, Led Zeppelin II, Led Zeppelin, 22 October 1969, 3.94, 27814, 581, Hard Rock, Blues Rock, energetic, sexual, heavy, raw, male vocals, hedonistic, boastful, passionate
+191, 192, Reign in Blood, Slayer, 7 October 1986, 3.96, 20221, 618, Thrash Metal, aggressive, satanic, death, energetic, heavy, anti-religious, manic, angry
+192, 193, The Pet Sounds Sessions, The Beach Boys, 4 November 1997, 4.21, 553, 22, Baroque Pop, existential, melodic, vocal group, polyphonic, bittersweet, melancholic, sentimental, progressive
+193, 194, Rage Against the Machine, Rage Against the Machine, 10 November 1992, 3.94, 24037, 452, Rap Metal, Alternative Metal, political, protest, aggressive, rebellious, angry, energetic, male vocals, heavy
+194, 195, Geogaddi, Boards of Canada, 18 February 2002, 3.98, 18203, 198, IDM, mysterious, psychedelic, atmospheric, ominous, surreal, hypnotic, melancholic, dark
+195, 196, MTV Unplugged in New York, Nirvana, 1 November 1994, 4.12, 19623, 410, Acoustic Rock, Alternative Rock, acoustic, melodic, melancholic, male vocals, sombre, introspective, passionate, lonely
+196, 197, Zombie, Fela Anikulapo Kuti and Afrika 70, 1977, 4.03, 6538, 84, Afrobeat, rhythmic, protest, energetic, political, repetitive, rebellious, male vocals, conscious
+197, 198, A Tábua de Esmeralda, Jorge Ben, 1974, 4.04, 5510, 78, MPB, Samba-rock, warm, tropical, uplifting, male vocals, playful, summer, lush, occult
+198, 199, The Complete Matrix Tapes, The Velvet Underground, 20 November 2015, 4.22, 600, 14, Art Rock, Proto-Punk, warm, urban, rhythmic, raw, nocturnal, hedonistic, mellow, avant-garde
+199, 200, Surfer Rosa, Pixies, 21 March 1988, 3.94, 25751, 368, Indie Rock, Alternative Rock, energetic, raw, humorous, playful, noisy, male vocals, female vocals, manic
+200, 201, Sabbath Bloody Sabbath, Black Sabbath, 28 December 1973, 3.98, 16563, 329, Heavy Metal, Hard Rock, male vocals, heavy, philosophical, progressive, introspective, pessimistic, ominous, energetic
+201, 202, Lateralus, Tool, 15 May 2001, 3.94, 23399, 477, Alternative Metal, Progressive Metal, uncommon time signatures, complex, philosophical, existential, progressive, male vocals, heavy, introspective
+202, 203, Astral Weeks, Van Morrison, 29 November 1968, 3.98, 14937, 425, Singer-Songwriter, Chamber Folk, passionate, warm, acoustic, poetic, romantic, introspective, pastoral, lush
+203, 204, Hammersmith Odeon, London '75, Bruce Springsteen & the E Street Band, 28 February 2006, 4.20, 1061, 34, Heartland Rock, passionate, energetic, male vocals, triumphant, melodic, anthemic, uplifting
+204, 205, Let It Bleed, The Rolling Stones, 29 November 1969, 3.98, 16742, 375, Blues Rock, sexual, rebellious, male vocals, hedonistic, raw, energetic, bittersweet, melodic
+205, 206, Songs for the Deaf, Queens of the Stone Age, 27 August 2002, 3.94, 24456, 334, Stoner Rock, Alternative Rock, desert, energetic, concept album, male vocals, drugs, heavy, summer, rhythmic
+206, 207, Dopethrone, Electric Wizard, 25 September 2000, 3.98, 15022, 220, Stoner Metal, Doom Metal, heavy, drugs, occult, psychedelic, nihilistic, noisy, dense, misanthropic
+207, 208, Mount Eerie, The Microphones, 21 January 2003, 4.00, 11979, 103, Avant-Folk, Psychedelic Folk, death, nature, atmospheric, spiritual, avant-garde, ritualistic, concept album, epic
+208, 209, Arthur or the Decline and Fall of the British Empire, The Kinks, 10 October 1969, 4.02, 7884, 195, Pop Rock, satirical, history, melodic, sarcastic, concept album, war, male vocals, rock opera
+209, 210, Flower Boy, Tyler, the Creator, 21 July 2017, 3.91, 34075, 218, West Coast Hip Hop, introspective, lonely, lush, LGBT, warm, male vocals, love, summer
+210, 211, Townes Van Zandt, Townes Van Zandt, September 1969, 4.02, 7573, 64, Singer-Songwriter, Country, Contemporary Folk, melancholic, acoustic, male vocals, pastoral, poetic, love, bittersweet, sad
+211, 212, The Freewheelin' Bob Dylan, Bob Dylan, 27 May 1963, 3.97, 17487, 370, Contemporary Folk, Singer-Songwriter, acoustic, poetic, protest, male vocals, political, conscious, mellow, introspective
+212, 213, Discipline, King Crimson, 22 September 1981, 3.98, 15662, 235, Art Rock, Progressive Rock, New Wave, uncommon time signatures, complex, rhythmic, technical, anxious, progressive, male vocals, energetic
+213, 214, Fresh Fruit for Rotting Vegetables, Dead Kennedys, 2 September 1980, 3.97, 16022, 284, Hardcore Punk, Punk Rock, political, satirical, sarcastic, energetic, rebellious, humorous, raw, male vocals
+214, 215, A Moon Shaped Pool, Radiohead, 8 May 2016, 3.91, 32358, 285, Art Pop, Art Rock, Chamber Pop, atmospheric, melancholic, introspective, sombre, lush, mellow, male vocals, mysterious
+215, 216, Swordfishtrombones, Tom Waits, September 1983, 3.99, 12917, 190, Singer-Songwriter, Experimental Rock, poetic, dark, surreal, avant-garde, urban, male vocals, atmospheric, eclectic
+216, 217, The Olatunji Concert: The Last Live Recording, John Coltrane, 25 September 2001, 4.18, 2938, 60, Free Jazz, chaotic, lo-fi, noisy, improvisation, energetic, passionate, avant-garde, instrumental
+217, 218, The Magnolia Electric Co., Magnolia Electric Co., 4 March 2003, 4.01, 8378, 99, Alt-Country, Country Rock, melancholic, poetic, introspective, passionate, lonely, melodic, male vocals, sad
+218, 219, Who's Next, The Who, 25 August 1971, 3.95, 19693, 534, Hard Rock, energetic, uplifting, melodic, passionate, male vocals, anthemic, rebellious, triumphant
+219, 220, Die Mensch-Maschine, Kraftwerk, 19 May 1978, 3.97, 16958, 221, Synthpop, Electronic, mechanical, futuristic, science fiction, repetitive, male vocals, hypnotic, minimalistic, melodic
+220, 221, Axis: Bold as Love, The Jimi Hendrix Experience, 1 December 1967, 3.97, 16352, 314, Psychedelic Rock, Blues Rock, psychedelic, surreal, male vocals, passionate, energetic, warm, sexual, hedonistic
+221, 222, Rust Never Sleeps, Neil Young & Crazy Horse, 9 July 1979, 4.16, 8332, 190, Singer-Songwriter, Country Rock, Folk Rock, poetic, raw, introspective, bittersweet, male vocals, rebellious, passionate, sombre
+222, 223, Treasure, Cocteau Twins, 1 November 1984, 3.96, 17351, 225, Dream Pop, Ethereal Wave, ethereal, atmospheric, mysterious, cryptic, female vocals, melodic, lush, nocturnal
+223, 224, Post, Björk, 15 June 1995, 3.93, 26084, 243, Art Pop, Electronic, eclectic, playful, passionate, female vocals, quirky, futuristic, lush, romantic
+224, 225, How the West Was Won, Led Zeppelin, 27 May 2003, 4.18, 3545, 150, Hard Rock, Blues Rock, male vocals, heavy, energetic, technical, passionate, improvisation
+225, 226, Magical Mystery Tour, The Beatles, 27 November 1967, 4.06, 29588, 566, Psychedelic Pop, Pop Rock, psychedelic, melodic, playful, surreal, male vocals, lush, quirky, summer
+226, 227, The Bends, Radiohead, 13 March 1995, 3.84, 50223, 807, Alternative Rock, melancholic, lonely, melodic, anxious, introspective, male vocals, bittersweet, existential
+227, 228, Yankee Hotel Foxtrot, Wilco, 23 April 2002, 3.93, 22942, 385, Indie Rock, bittersweet, melancholic, male vocals, poetic, sentimental, love, melodic, introspective
+228, 229, The Nocturnes, Frédéric Chopin /, 1967, 4.04, 2452, 21, Romanticism, instrumental, nocturnal, mellow, melancholic, sparse, soothing, melodic, soft
+229, 230, Entertainment!, Gang of Four, 25 September 1979, 3.96, 15645, 273, Post-Punk, political, rhythmic, anxious, energetic, sarcastic, male vocals, rebellious, conscious
+230, 231, Jane Doe, Converge, 4 September 2001, 3.95, 15005, 265, Mathcore, Metalcore, angry, chaotic, noisy, aggressive, manic, breakup, heavy, passionate
+231, 232, Head Hunters, Herbie Hancock, 13 October 1973, 3.98, 13608, 179, Jazz-Funk, Jazz Fusion, rhythmic, instrumental, playful, energetic, happy, improvisation, uplifting, psychedelic
+232, 233, Weezer [Blue Album], Weezer, 10 May 1994, 3.89, 31932, 496, Power Pop, Alternative Rock, melodic, energetic, male vocals, summer, bittersweet, playful, passionate, introspective
+233, 234, Physical Graffiti, Led Zeppelin, 24 February 1975, 3.95, 19749, 465, Hard Rock, energetic, male vocals, eclectic, rhythmic, epic, passionate, melodic, raw
+234, 235, Construção, Chico Buarque, 1971, 4.01, 5552, 71, MPB, Singer-Songwriter, political, poetic, urban, male vocals, conscious, existential, protest, melancholic
+235, 236, The Moon & Antarctica, Modest Mouse, 13 June 2000, 3.96, 17827, 266, Indie Rock, philosophical, existential, lonely, cold, melancholic, anxious, sarcastic, atmospheric
+236, 237, Trans Europa Express, Kraftwerk, March 1977, 3.97, 14078, 209, Electronic, Progressive Electronic, futuristic, mechanical, repetitive, cold, male vocals, hypnotic, minimalistic, urban
+237, 238, Human, Death, 22 October 1991, 3.98, 11755, 162, Technical Death Metal, Death Metal, technical, aggressive, philosophical, existential, complex, male vocals, heavy, death
+238, 239, Black on Both Sides, Mos Def, 12 October 1999, 3.99, 11174, 148, East Coast Hip Hop, Conscious Hip Hop, conscious, urban, male vocals, political, passionate, rhythmic, uplifting, poetic
+239, 240, Thriller, Michael Jackson, 30 November 1982, 3.94, 20389, 325, Contemporary R&B, Pop, Dance-Pop, energetic, romantic, melodic, party, male vocals, rhythmic, playful, sensual
+240, 241, Dirt, Alice in Chains, 29 September 1992, 3.94, 19692, 463, Grunge, Alternative Metal, drugs, heavy, depressive, pessimistic, dark, angry, male vocals, self-hatred
+241, 242, Sunshine Daydream: Veneta, Oregon, August 27, 1972, Grateful Dead, 17 September 2013, 4.20, 490, 15, Psychedelic Rock, Jam Band, improvisation, summer, happy, warm, male vocals, psychedelic, melodic, pastoral
+242, 243, The Seer, Swans, 28 August 2012, 3.94, 17757, 262, Experimental Rock, Post-Rock, apocalyptic, repetitive, ominous, epic, mysterious, dark, atmospheric, ritualistic
+243, 244, Maggot Brain, Funkadelic, 12 July 1971, 3.97, 14732, 178, Funk Rock, psychedelic, rhythmic, passionate, male vocals, hypnotic, apocalyptic, political, drugs
+244, 245, Stratosphere, Duster, 24 February 1998, 3.97, 15620, 143, Slowcore, Lo-Fi / Slacker Rock, lo-fi, warm, melancholic, atmospheric, space, mellow, bittersweet, lethargic
+245, 246, Blackwater Park, Opeth, 12 March 2001, 3.94, 15821, 282, Progressive Metal, sombre, dark, atmospheric, male vocals, progressive, ominous, heavy, epic
+246, 247, Born to Run, Bruce Springsteen, 25 August 1975, 3.96, 14117, 321, Heartland Rock, passionate, triumphant, energetic, melodic, male vocals, bittersweet, poetic, sentimental
+247, 248, Seventh Son of a Seventh Son, Iron Maiden, 11 April 1988, 3.97, 12725, 273, Heavy Metal, epic, melodic, fantasy, male vocals, progressive, energetic, concept album, passionate
+248, 249, Let My Children Hear Music, Charles Mingus, February 1972, 4.02, 4996, 58, Third Stream, Experimental Big Band, Avant-Garde Jazz, instrumental, energetic, avant-garde, complex, dense, improvisation, technical, progressive
+249, 250, Live at The Old Quarter, Houston, Texas, Townes Van Zandt, 1977, 4.18, 2014, 41, Singer-Songwriter, Country, Contemporary Folk, acoustic, melancholic, pastoral, male vocals, melodic, lonely, warm, love
+250, 251, Fôrça bruta, Jorge Ben, 1970, 4.02, 3963, 35, Samba Soul, Samba-rock, MPB, uplifting, passionate, playful, summer, happy, romantic, tropical, male vocals
+251, 252, Bryter Layter, Nick Drake, 1 November 1970, 3.96, 16043, 261, Singer-Songwriter, Chamber Folk, Contemporary Folk, mellow, acoustic, poetic, lush, introspective, melodic, male vocals, lonely
+252, 253, 宇宙 日本 世田谷 (Uchu Nippon Setagaya), Fishmans, 24 July 1997, 3.99, 9858, 59, Dream Pop, Downtempo, Ambient Pop, soothing, atmospheric, mellow, lush, peaceful, warm, playful, androgynous vocals
+253, 254, Boris at Last -Feedbacker-, Boris, 25 December 2003, 3.96, 12974, 125, Drone Metal, Post-Metal, Drone, noisy, heavy, atmospheric, hypnotic, epic, dense, repetitive, progressive
+254, 255, Bone Machine, Tom Waits, 8 September 1992, 3.98, 10103, 173, Experimental Rock, Singer-Songwriter, dark, raw, nocturnal, death, ominous, manic, eclectic, passionate
+255, 256, Absent Lovers: Live in Montreal 1984, King Crimson, 23 June 1998, 4.18, 1329, 32, Progressive Rock, New Wave, energetic, technical, male vocals, progressive, rhythmic, complex, uncommon time signatures, polyphonic
+256, 257, The Shape of Jazz to Come, Ornette Coleman, November 1959, 3.98, 10078, 107, Avant-Garde Jazz, instrumental, improvisation, avant-garde, energetic, passionate, dissonant, acoustic, complex
+257, 258, The Bootleg Series Volumes 1-3: (Rare & Unreleased) 1961-1991, Bob Dylan, 26 March 1991, 4.17, 2096, 71, Folk Rock, Singer-Songwriter, Contemporary Folk, poetic, male vocals, repetitive, raw, passionate
+258, 259, At Folsom Prison, Johnny Cash, May 1968, 4.13, 9887, 192, Country, crime, sarcastic, humorous, death, male vocals, love, rebellious, bittersweet
+259, 260, Twin Fantasy, Car Seat Headrest, 16 February 2018, 3.91, 20939, 268, Indie Rock, LGBT, passionate, introspective, sentimental, love, concept album, male vocals, lonely
+260, 261, Otis Blue: Otis Redding Sings Soul, Otis Redding, 15 September 1965, 3.99, 7353, 126, Deep Soul, Southern Soul, passionate, male vocals, love, longing, romantic, melodic, raw, bittersweet
+261, 262, Alive 2007, Daft Punk, 19 November 2007, 4.14, 7872, 99, French House, futuristic, party, energetic, rhythmic, mashup, happy, sampling, progressive
+262, 263, Foxtrot, Genesis, 6 October 1972, 3.97, 11534, 249, Progressive Rock, Symphonic Prog, epic, fantasy, uncommon time signatures, complex, progressive, philosophical, male vocals, playful
+263, 264, Out to Lunch, Eric Dolphy, August 1964, 3.98, 9434, 149, Avant-Garde Jazz, instrumental, uncommon time signatures, avant-garde, dissonant, complex, playful, anxious, improvisation
+264, 265, XO, Elliott Smith, 25 August 1998, 3.97, 13611, 159, Singer-Songwriter, Indie Pop, melancholic, melodic, bittersweet, male vocals, alienation, poetic, warm, love
+265, 266, Fragile, Yes, 26 November 1971, 3.94, 17921, 343, Progressive Rock, epic, complex, uncommon time signatures, technical, nature, progressive, male vocals, uplifting
+266, 267, Aja, Steely Dan, 23 September 1977, 3.96, 11982, 253, Jazz-Rock, Pop Rock, Yacht Rock, mellow, lush, soft, warm, male vocals, complex, bittersweet, nocturnal
+267, 268, Ascension [Edition I], John Coltrane, February 1966, 3.98, 7822, 119, Free Jazz, Spiritual Jazz, instrumental, chaotic, dense, improvisation, spiritual, avant-garde, passionate, complex
+268, 269, Moment of Truth, Gang Starr, 31 March 1998, 4.00, 6057, 92, Boom Bap, East Coast Hip Hop, urban, male vocals, optimistic, sampling, conscious, philosophical, rhythmic, boastful
+269, 270, Deceit, This Heat, September 1981, 3.95, 12906, 156, Experimental Rock, Post-Punk, apocalyptic, anxious, war, political, dark, avant-garde, complex, dissonant
+270, 271, Pink Flag, Wire, December 1977, 3.94, 17430, 286, Punk Rock, Art Punk, energetic, male vocals, minimalistic, raw, sarcastic, rebellious, cryptic, abstract
+271, 272, Bridge Over Troubled Water, Simon and Garfunkel, 26 January 1970, 3.96, 12355, 218, Folk Pop, Singer-Songwriter, melodic, warm, soothing, male vocals, mellow, soft, melancholic, love
+272, 273, Voodoo, D'Angelo, 25 January 2000, 3.98, 9174, 94, Neo-Soul, sexual, romantic, sensual, rhythmic, mellow, love, male vocals, urban
+273, 274, Keep an Eye on the Sky, Big Star, 15 September 2009, 4.18, 529, 13, Power Pop, melodic, male vocals
+274, 275, Strange Days, The Doors, 25 September 1967, 3.94, 17179, 280, Psychedelic Rock, psychedelic, mysterious, melancholic, male vocals, cryptic, poetic, alienation, surreal
+275, 276, Olé Coltrane, John Coltrane, November 1961, 4.00, 5588, 85, Modal Jazz, instrumental, warm, passionate, improvisation, acoustic, technical, melodic, energetic
+276, 277, Highlights From the Plugged Nickel, Miles Davis, 1995, 4.20, 320, 12, Post-Bop, Modal Jazz, passionate
+277, 278, Ænima, Tool, 1 October 1996, 3.91, 20764, 444, Alternative Metal, angry, philosophical, misanthropic, satirical, male vocals, aggressive, heavy, sarcastic
+278, 279, Purple Rain, Prince and The Revolution, 25 June 1984, 4.07, 18383, 321, Pop Rock, Film Soundtrack, Synth Funk, playful, sexual, energetic, sensual, melodic, romantic, love, male vocals
+279, 280, Kyuss [Welcome to Sky Valley], Kyuss, 21 June 1994, 3.95, 14132, 228, Stoner Rock, Stoner Metal, desert, heavy, dense, psychedelic, hypnotic, warm, male vocals, drugs
+280, 281, Let Love In, Nick Cave and The Bad Seeds, 19 April 1994, 3.95, 13162, 116, Alternative Rock, Post-Punk, dark, love, passionate, atmospheric, poetic, anxious, male vocals, ominous
+281, 282, Le sacre du printemps, Igor Stravinsky /, 1958, 4.01, 2927, 25, Modern Classical, Orchestral, ritualistic, orchestral, apocalyptic, instrumental, suspenseful, dissonant, complex, spring
+282, 283, Africa / Brass, The John Coltrane Quartet, 1 September 1961, 4.00, 4978, 53, Modal Jazz, Post-Bop, instrumental, warm, acoustic, complex, improvisation, mellow, technical, nocturnal
+283, 284, Sometimes I Might Be Introvert, Little Simz, 3 September 2021, 3.94, 15377, 144, UK Hip Hop, Conscious Hip Hop, lush, orchestral, introspective, female vocals, conscious, eclectic, uplifting, triumphant
+284, 285, Tabula rasa, Staatsorchester Stuttgart / Lithuanian Chamber Orchestra / The 12 Cellists of the Berlin Philharmonic Orchestra / Dennis Russell Davies / Saulius Sondeckis / Gidon Kremer / Keith Jarrett / Tatjana Grindenko / Alfred Schnittke, September 1984, 3.99, 5723, 87, Minimalism, Modern Classical, melancholic, instrumental, passionate, atmospheric, mysterious, spiritual, minimalistic, acoustic
+285, 286, Live After Death, Iron Maiden, 14 October 1985, 4.13, 4653, 124, Heavy Metal, NWOBHM, energetic, passionate, heavy, war, male vocals, epic, melodic, rhythmic
+286, 287, Flood, Boris, 15 December 2000, 3.96, 11211, 139, Drone, Post-Rock, atmospheric, hypnotic, repetitive, melancholic, minimalistic, epic, meditative, aquatic
+287, 288, Getz / Gilberto, Stan Getz & João Gilberto, April 1964, 3.97, 9896, 130, Bossa nova, Samba-jazz, mellow, tropical, romantic, soft, summer, warm, peaceful, calm
+288, 289, Twin Peaks, Angelo Badalamenti, 11 September 1990, 4.11, 10637, 85, Television Music, Dark Jazz, mysterious, nocturnal, ominous, atmospheric, surreal, suspenseful, mellow, dark
+289, 290, Pastel Blues, Nina Simone, October 1965, 3.99, 6051, 52, Vocal Jazz, Soul, Rhythm & Blues, female vocals, passionate, melancholic, melodic, conscious, spiritual, longing, sombre
+290, 291, Vaudeville Villain, Viktor Vaughn, 16 September 2003, 3.97, 10829, 75, Abstract Hip Hop, East Coast Hip Hop, ominous, sampling, dark, humorous, nocturnal, male vocals, futuristic, cold
+291, 292, Have One on Me, Joanna Newsom, 23 February 2010, 3.96, 10010, 221, Chamber Folk, Singer-Songwriter, Progressive Folk, poetic, pastoral, warm, passionate, lush, complex, autumn, melodic
+292, 293, The Number of the Beast, Iron Maiden, 22 March 1982, 3.92, 18640, 452, NWOBHM, Heavy Metal, energetic, melodic, male vocals, anthemic, passionate, heavy, epic, history
+293, 294, Paul's Boutique, Beastie Boys, 25 July 1989, 3.94, 15527, 249, East Coast Hip Hop, sampling, energetic, humorous, playful, urban, male vocals, boastful, sexual
+294, 295, Symphonie Nr.5, Ludwig van Beethoven /, 1975, 4.01, 1173, 7, Symphony, Romanticism, instrumental, acoustic, lush, triumphant, orchestral, epic, passionate, symphony
+295, 296, Beggars Banquet, The Rolling Stones, 6 December 1968, 3.95, 13581, 308, Roots Rock, Rock, rebellious, raw, male vocals, hedonistic, passionate, warm, energetic, melodic
+296, 297, Cornell 5/8/77, Grateful Dead, 5 May 2017, 4.17, 573, 12, Jam Band, Roots Rock, warm, summer, improvisation, passionate, psychedelic, uplifting, rhythmic, party
+297, 298, The Cellar Door Sessions 1970, Miles Davis, September 2005, 4.18, 452, 15, Jazz Fusion, improvisation, rhythmic, surreal, progressive, avant-garde, atmospheric, energetic, instrumental
+298, 299, Sound of Silver, LCD Soundsystem, 12 March 2007, 3.91, 20085, 228, Dance-Punk, Indietronica, energetic, rhythmic, repetitive, bittersweet, sarcastic, male vocals, urban, introspective
+299, 300, Here Come the Warm Jets, Eno, February 1974, 3.95, 13432, 233, Art Rock, Glam Rock, Experimental Rock, playful, surreal, quirky, male vocals, abstract, manic, humorous, energetic
+300, 301, Mirage, Camel, 1 March 1974, 3.97, 10042, 182, Symphonic Prog, Progressive Rock, complex, melodic, fantasy, progressive, epic, uncommon time signatures, male vocals, atmospheric
+301, 302, Still Life, Opeth, 18 October 1999, 3.95, 10955, 211, Progressive Metal, concept album, dark, melodic, complex, love, heavy, progressive, passionate
+302, 303, Tonight's the Night, Neil Young, 20 June 1975, 3.97, 9304, 211, Country Rock, Singer-Songwriter, Folk Rock, introspective, drugs, death, raw, sombre, lonely, male vocals, dark
+303, 304, The Lamb Lies Down on Broadway, Genesis, 18 November 1974, 3.96, 9625, 270, Progressive Rock, Rock Opera, surreal, complex, rock opera, fantasy, uncommon time signatures, male vocals, melodic, progressive
+304, 305, Made in Japan, Deep Purple, 8 December 1972, 4.13, 5940, 210, Hard Rock, heavy, energetic, raw, male vocals, improvisation, anthemic, epic, passionate
+305, 306, Moondance, Van Morrison, 28 February 1970, 3.96, 9679, 243, Singer-Songwriter, Folk Rock, romantic, mellow, warm, pastoral, male vocals, acoustic, passionate, spiritual
+306, 307, Live at Leeds, The Who, 3 May 1970, 4.13, 6463, 290, Hard Rock, energetic, raw, rebellious, male vocals, heavy, improvisation, passionate, melodic
+307, 308, Live Rust, Neil Young & Crazy Horse, 14 November 1979, 4.15, 3488, 84, Singer-Songwriter, Country Rock, raw, male vocals, passionate, energetic, melodic, poetic, eclectic, conscious
+308, 309, Relationship of Command, At the Drive-In, 12 September 2000, 3.93, 17075, 264, Post-Hardcore, energetic, passionate, cryptic, anxious, angry, aggressive, male vocals, technical
+309, 310, Ram, Paul & Linda McCartney, 17 May 1971, 3.97, 8887, 236, Pop Rock, playful, warm, melodic, male vocals, pastoral, quirky, spring, happy
+310, 311, Blade Runner, Vangelis, 21 June 1994, 4.13, 6168, 92, Progressive Electronic, Film Score, Space Ambient, futuristic, atmospheric, nocturnal, lonely, urban, rain, melancholic, mysterious
+311, 312, Third, Portishead, 28 April 2008, 3.92, 17686, 367, Electronic, Experimental Rock, anxious, dark, mysterious, atmospheric, cold, sombre, female vocals, introspective
+312, 313, Jenny Death: The Powers That B Disc 2, Death Grips, 19 March 2015, 3.95, 12625, 37, Experimental Hip Hop, Industrial Hip Hop, Noise Rock, noisy, manic, abstract, aggressive, male vocals, cryptic, raw, misanthropic
+313, 314, El jardín de los presentes, Invisible, 29 September 1976, 3.99, 3949, 54, Progressive Rock, Art Rock, poetic, melancholic, mellow, progressive, existential, complex, passionate, male vocals
+314, 315, Roseland NYC Live, Portishead, 2 November 1998, 4.14, 4887, 62, Trip Hop, mysterious, melancholic, dark, sombre, anxious, atmospheric, female vocals, nocturnal
+315, 316, KIDS SEE GHOSTS, Kids See Ghosts, 8 June 2018, 3.86, 33433, 238, Pop Rap, Experimental Hip Hop, spiritual, male vocals, psychedelic, uplifting, introspective, sampling, passionate, bittersweet
+316, 317, Quebec, Ween, 5 August 2003, 3.96, 9585, 107, Art Rock, Psychedelic Rock, Alternative Rock, eclectic, drugs, surreal, psychedelic, melancholic, male vocals, bittersweet, atmospheric
+317, 318, Lanquidity, Sun Ra, 1978, 3.98, 6738, 55, Jazz Fusion, instrumental, improvisation, mysterious, atmospheric, surreal, spiritual, hypnotic, rhythmic
+318, 319, Transformer, Lou Reed, 8 November 1972, 3.92, 18658, 258, Glam Rock, Pop Rock, sexual, LGBT, drugs, urban, male vocals, humorous, melodic, bittersweet
+319, 320, The Bootleg Series Vol. 5: Live 1975 - The Rolling Thunder Revue, Bob Dylan, 26 November 2002, 4.15, 2004, 62, Folk Rock, Singer-Songwriter, poetic, male vocals, passionate, energetic
+320, 321, 加爾基 精液 栗ノ花 (Kalk samen kuri no hana), 椎名林檎, 23 February 2003, 3.97, 7962, 84, Art Pop, Art Rock, Progressive Pop, eclectic, anxious, playful, female vocals, dense, lush, complex, progressive
+321, 322, Dark Magus, Miles Davis, 1977, 4.14, 3006, 62, Jazz Fusion, Jazz-Funk, improvisation, psychedelic, dense, instrumental, manic, dark, avant-garde, noisy
+322, 323, Love Power Peace: Live at the Olympia, Paris, 1971, James Brown, 23 June 1992, 4.16, 588, 22, Funk, energetic, rhythmic, party, male vocals, passionate, uplifting, sensual, warm
+323, 324, Black Sabbath Vol. 4, Black Sabbath, 25 September 1972, 3.93, 16605, 309, Heavy Metal, Hard Rock, heavy, male vocals, drugs, sombre, rhythmic, dark, introspective, alienation
+324, 325, Houses of the Holy, Led Zeppelin, 28 March 1973, 3.91, 20514, 456, Hard Rock, male vocals, energetic, passionate, eclectic, rhythmic, longing, melodic, psychedelic
+325, 326, Titanic Rising, Weyes Blood, 5 April 2019, 3.90, 20826, 221, Baroque Pop, Art Pop, female vocals, lush, ethereal, melodic, romantic, longing, soft, bittersweet
+326, 327, Live at the Harlem Square Club, 1963, Sam Cooke, 29 April 1985, 4.13, 3161, 105, Southern Soul, happy, energetic, party, uplifting, male vocals, melodic, romantic, love
+327, 328, ( ), Sigur Rós, 28 October 2002, 3.92, 16875, 324, Post-Rock, melancholic, ethereal, atmospheric, soothing, bittersweet, winter, cold, lush
+328, 329, Machine Head, Deep Purple, 25 March 1972, 3.93, 12983, 327, Hard Rock, energetic, heavy, male vocals, melodic, passionate, rhythmic, technical, anthemic
+329, 330, Moving Pictures, Rush, 9 February 1981, 3.92, 15831, 320, Progressive Rock, Hard Rock, male vocals, energetic, melodic, complex, progressive, technical, science fiction, uncommon time signatures
+330, 331, Unleashed in the East: Live in Japan, Judas Priest, 17 September 1979, 4.13, 2667, 91, Heavy Metal, male vocals, energetic, rebellious, heavy, anthemic, melodic, passionate, triumphant
+331, 332, The Long Goodbye: LCD Soundsystem Live at Madison Square Garden, LCD Soundsystem, 19 April 2014, 4.13, 1607, 14, Dance-Punk, Indietronica, energetic, male vocals, rhythmic, melancholic, bittersweet, sarcastic, atmospheric, passionate
+332, 333, Filosofem, Burzum, 31 January 1996, 3.90, 17787, 224, Atmospheric Black Metal, lo-fi, atmospheric, repetitive, cold, hypnotic, raw, meditative, pagan
+333, 334, Dots and Loops, Stereolab, 23 September 1997, 3.95, 10405, 97, Art Pop, Indietronica, mellow, female vocals, warm, psychedelic, futuristic, political, eclectic, abstract
+334, 335, White Pony, Deftones, 20 June 2000, 3.91, 17847, 231, Alternative Metal, atmospheric, anxious, sexual, male vocals, heavy, melancholic, drugs, romantic
+335, 336, Silent Hill 2, 山岡晃, 3 October 2001, 4.11, 6159, 80, Video Game Music, Ambient, sombre, ominous, dark, melancholic, cold, atmospheric, lonely, surreal
+336, 337, You Won't Get What You Want, Daughters, 26 October 2018, 3.87, 21781, 223, Noise Rock, Industrial Rock, noisy, anxious, dark, dissonant, male vocals, manic, heavy, nihilistic
+337, 338, When the Pawn, Fiona Apple, 9 November 1999, 3.95, 10957, 155, Singer-Songwriter, Piano Rock, breakup, female vocals, melodic, poetic, bittersweet, passionate, angry, sarcastic
+338, 339, It Takes a Nation of Millions to Hold Us Back, Public Enemy, 14 April 1988, 3.93, 13405, 266, Political Hip Hop, East Coast Hip Hop, Hardcore Hip Hop, political, angry, protest, raw, sampling, energetic, urban, male vocals
+339, 340, Stress: The Extinction Agenda, Organized Konfusion, 16 August 1994, 3.97, 4393, 74, East Coast Hip Hop, Boom Bap, Jazz Rap, urban, apocalyptic, angry, rhythmic, conscious, male vocals, anxious, political
+340, 341, Music for 18 Musicians, Steve Reich /, 31 March 1998, 3.98, 2526, 26, Minimalism, repetitive, hypnotic, ethereal, rhythmic, minimalistic, instrumental, polyphonic, atmospheric
+341, 342, The Mollusk, Ween, 24 June 1997, 3.92, 13800, 168, Art Rock, Neo-Psychedelia, aquatic, playful, humorous, psychedelic, eclectic, surreal, quirky, male vocals
+342, 343, The Ape of Naples, Coil, 2 December 2005, 3.93, 11874, 116, Post-Industrial, Electronic, Experimental, death, melancholic, lonely, cold, ominous, philosophical, surreal, cryptic
+343, 344, Chairs Missing, Wire, 8 September 1978, 3.94, 10801, 171, Post-Punk, Art Punk, mysterious, cryptic, abstract, anxious, male vocals, surreal, sarcastic, eclectic
+344, 345, Hot Buttered Soul, Isaac Hayes, May 1969, 3.97, 6293, 124, Soul, male vocals, lush, love, passionate, romantic, breakup, warm, soothing
+345, 346, Time Out, The Dave Brubeck Quartet, 14 December 1959, 3.94, 10609, 178, Cool Jazz, uncommon time signatures, instrumental, mellow, melodic, playful, acoustic, rhythmic, soothing
+346, 347, Sister, Sonic Youth, June 1987, 3.92, 15618, 199, Noise Rock, Alternative Rock, noisy, raw, dissonant, anxious, male vocals, female vocals, apathetic, surreal
+347, 348, 154, Wire, 23 September 1979, 3.95, 9167, 138, Post-Punk, Art Punk, anxious, ominous, male vocals, cryptic, atmospheric, philosophical, cold, futuristic
+348, 349, Mingus Mingus Mingus Mingus Mingus, Charles Mingus, May 1964, 3.97, 5345, 63, Post-Bop, instrumental, acoustic, improvisation, technical, complex, warm, energetic, bittersweet
+349, 350, The Bootleg Series Vol. 14: More Blood, More Tracks, Bob Dylan, 2 November 2018, 4.15, 659, 16, Singer-Songwriter, Contemporary Folk, poetic, breakup, passionate, introspective, melancholic, bittersweet, acoustic, male vocals
+350, 351, Symphonie Nr. 5, Ludwig van Beethoven /, 1962, 4.00, 714, 5, Symphony, Classical Period, Romanticism, symphony, lush, instrumental, epic, orchestral, triumphant, acoustic, romantic
+351, 352, Only Built 4 Cuban Linx..., Raekwon, 1 August 1995, 3.94, 9345, 166, East Coast Hip Hop, Gangsta Rap, Boom Bap, crime, urban, drugs, sampling, violence, male vocals, boastful, rhythmic
+352, 353, Saxophone Colossus, Sonny Rollins, April 1957, 3.96, 6100, 81, Hard Bop, instrumental, warm, improvisation, acoustic, energetic, melodic, mellow, passionate
+353, 354, Exodus, Bob Marley & The Wailers, 3 June 1977, 3.95, 7681, 119, Roots Reggae, male vocals, uplifting, rhythmic, warm, optimistic, political, summer, mellow
+354, 355, Thanks, Sorry!, Jeff Rosenstock, 18 October 2019, 4.14, 930, 13, Pop Punk, Indie Rock, Power Pop, energetic, political, male vocals, anxious, angry, sarcastic, protest, melodic
+355, 356, The Wall, Pink Floyd, 30 November 1979, 3.81, 39442, 761, Rock Opera, Art Rock, misanthropic, rock opera, lonely, concept album, introspective, anxious, dark, male vocals
+356, 357, John Lennon / Plastic Ono Band, John Lennon /, 11 December 1970, 3.92, 12291, 307, Singer-Songwriter, passionate, raw, introspective, existential, male vocals, angry, anxious, alienation
+357, 358, Il buono, il brutto, il cattivo, Ennio Morricone, 23 December 1966, 4.11, 5445, 83, Film Score, Spaghetti Western, desert, epic, instrumental, suspenseful, atmospheric, martial, sombre, triumphant
+358, 359, The Piper at the Gates of Dawn, Pink Floyd, 4 August 1967, 3.85, 30322, 704, Psychedelic Rock, Psychedelic Pop, psychedelic, drugs, fantasy, surreal, playful, abstract, quirky, male vocals
+359, 360, The Soft Bulletin, The Flaming Lips, 22 June 1999, 3.89, 19972, 367, Neo-Psychedelia, Psychedelic Pop, psychedelic, bittersweet, warm, lush, uplifting, melodic, melancholic, atmospheric
+360, 361, A Crow Looked at Me, Mount Eerie, 24 March 2017, 3.90, 15096, 217, Singer-Songwriter, Indie Folk, death, introspective, love, melancholic, lonely, sad, raw, sombre
+361, 362, Things Fall Apart, The Roots, 23 February 1999, 3.94, 10057, 87, East Coast Hip Hop, Jazz Rap, urban, rhythmic, male vocals, boastful, nocturnal, raw, playful, dark
+362, 363, Archive 1967-75, Genesis, 16 June 1998, 4.15, 618, 25, Progressive Rock, male vocals, progressive
+363, 364, Horses, Patti Smith, 13 December 1975, 3.91, 14543, 254, Proto-Punk, Singer-Songwriter, Art Rock, poetic, energetic, rebellious, female vocals, raw, passionate, cryptic, LGBT
+364, 365, Elliott Smith, Elliott Smith, 21 July 1995, 3.93, 12714, 146, Singer-Songwriter, Indie Folk, acoustic, melancholic, sad, lo-fi, drugs, lonely, bittersweet, male vocals
+365, 366, The Ascension, Glenn Branca, November 1981, 3.93, 10395, 133, No Wave, Noise Rock, Totalism, instrumental, dissonant, noisy, suspenseful, avant-garde, repetitive, rhythmic, raw
+366, 367, The Sound of Perseverance, Death, 15 September 1998, 3.91, 11054, 183, Technical Death Metal, Progressive Metal, technical, philosophical, complex, male vocals, progressive, existential, uncommon time signatures, poetic
+367, 368, On the Corner, Miles Davis, 11 October 1972, 3.95, 7662, 160, Jazz Fusion, Jazz-Funk, repetitive, instrumental, rhythmic, avant-garde, dense, improvisation, urban, hypnotic
+368, 369, None So Vile, Cryptopsy, 3 July 1996, 3.93, 7899, 166, Brutal Death Metal, Technical Death Metal, aggressive, technical, heavy, death, manic, violence, misanthropic, male vocals
+369, 370, 0, 青葉市子, 23 October 2013, 3.95, 7255, 42, Contemporary Folk, Singer-Songwriter, soft, female vocals, calm, warm, sparse, soothing, acoustic, mellow
+370, 371, Roforofo Fight, Fela & The Africa 70, 1972, 3.97, 3385, 31, Afrobeat, rhythmic, repetitive, male vocals, political, conscious, energetic, passionate, protest
+371, 372, Before and After Science, Brian Eno, December 1977, 3.93, 10527, 178, Art Rock, atmospheric, surreal, male vocals, ethereal, playful, mellow, lush, futuristic
+372, 373, Love Deluxe, Sade, 11 November 1992, 3.95, 6269, 54, Smooth Soul, Sophisti-Pop, sensual, soothing, romantic, love, mellow, female vocals, atmospheric, sentimental
+373, 374, Double Nickels on the Dime, Minutemen, July 1984, 3.92, 11917, 234, Post-Punk, Art Punk, Post-Hardcore, political, satirical, energetic, sarcastic, humorous, rhythmic, playful, male vocals
+374, 375, Visions of the Country, Robbie Basho, 1978, 3.97, 3131, 42, American Primitivism, meditative, pastoral, peaceful, nature, acoustic, male vocals, spiritual, passionate
+375, 376, 1970: The Complete Fun House Sessions, The Stooges, 1999, 4.14, 381, 22, Garage Rock, Proto-Punk, Hard Rock, drugs, raw, manic, male vocals, noisy, nihilistic, rebellious, aggressive
+376, 377, Mellon Collie and the Infinite Sadness, The Smashing Pumpkins, 23 October 1995, 3.88, 20679, 481, Alternative Rock, melancholic, passionate, angry, bittersweet, eclectic, male vocals, epic, dense
+377, 378, Live at Sin-é: Legacy Edition, Jeff Buckley, 2 September 2003, 4.13, 807, 27, Singer-Songwriter, Alternative Rock, male vocals, passionate
+378, 379, Black Messiah, D'Angelo and The Vanguard, 15 December 2014, 3.93, 10088, 82, Neo-Soul, romantic, political, sexual, male vocals, sensual, urban, conscious, love
+379, 380, Storm of the Light's Bane, Dissection, 17 November 1995, 3.93, 8013, 126, Melodic Black Metal, cold, melodic, sombre, winter, dark, death, misanthropic, ominous
+380, 381, Hejira, Joni Mitchell, 22 November 1976, 3.95, 5522, 125, Singer-Songwriter, Folk Rock, poetic, female vocals, melancholic, calm, introspective, warm, autumn, mellow
+381, 382, Matthäus-Passion, Johann Sebastian Bach, 16 November 1999, 3.98, 988, 8, Baroque Music, Oratorio, Christian Liturgical Music, oratorio, religious, epic, Christian, orchestral, melancholic, male vocals, female vocals
+382, 383, Live at the It Club, Thelonious Monk, July 1982, 4.14, 334, 9, Hard Bop, instrumental
+383, 384, Some Rap Songs, Earl Sweatshirt, 30 November 2018, 3.86, 23815, 200, Abstract Hip Hop, Experimental Hip Hop, lo-fi, introspective, sampling, abstract, death, male vocals, deadpan, lethargic
+384, 385, Artaud, Pescado Rabioso, October 1973, 3.96, 4573, 63, Folk Rock, Singer-Songwriter, poetic, philosophical, male vocals, psychedelic, melodic, autumn, mellow, passionate
+385, 386, The Goldberg Variations, Johann Sebastian Bach /, 2 September 1982, 3.96, 2603, 48, Baroque Music, instrumental, technical, acoustic, complex, polyphonic, melodic, peaceful, soothing
+386, 387, Live / 1975-85, Bruce Springsteen & The E Street Band, 10 November 1986, 4.12, 1938, 54, Heartland Rock, male vocals, melodic, anthemic, passionate, energetic, uplifting, bittersweet, melancholic
+387, 388, Automatic for the People, R.E.M., 6 October 1992, 3.89, 16839, 340, Alternative Rock, Pop Rock, bittersweet, melancholic, melodic, passionate, sombre, male vocals, sad, atmospheric
+388, 389, There's a Riot Goin' On, Sly & The Family Stone, 20 November 1971, 3.93, 8808, 179, Funk, Psychedelic Soul, rhythmic, psychedelic, lo-fi, drugs, male vocals, warm, conscious, mellow
+389, 390, Murmur, R.E.M., 12 April 1983, 3.90, 15181, 302, Jangle Pop, Alternative Rock, cryptic, melodic, atmospheric, poetic, male vocals, introspective, melancholic, mysterious
+390, 391, The Inner Mounting Flame, The Mahavishnu Orchestra With John McLaughlin, 3 November 1971, 3.94, 7396, 146, Jazz Fusion, Jazz-Rock, instrumental, technical, energetic, passionate, complex, improvisation, warm, spiritual
+391, 392, Superfly, Curtis Mayfield, July 1972, 4.07, 9416, 155, Film Soundtrack, Chicago Soul, Funk, urban, drugs, rhythmic, crime, passionate, male vocals, conscious, melodic
+392, 393, Ghosts of the Great Highway, Sun Kil Moon, 4 November 2003, 3.93, 8202, 95, Folk Rock, Singer-Songwriter, melancholic, bittersweet, sad, pastoral, mellow, sports, introspective, poetic
+393, 394, The Early Years 1965-1972, Pink Floyd, 11 November 2016, 4.13, 522, 8, Psychedelic Rock, Art Rock, Progressive Rock, psychedelic, male vocals, progressive
+394, 395, Aqualung, Jethro Tull, 19 March 1971, 3.91, 13411, 274, Progressive Rock, poetic, sarcastic, male vocals, progressive, philosophical, epic, uncommon time signatures, complex
+395, 396, Let It Be, The Replacements, September 1984, 3.92, 11454, 226, Alternative Rock, passionate, energetic, melodic, bittersweet, male vocals, raw, rebellious, alienation
+396, 397, Wrong, NoMeansNo, 23 October 1989, 3.94, 6585, 96, Post-Hardcore, manic, humorous, satirical, sarcastic, energetic, rhythmic, technical, raw
+397, 398, I Can Hear the Heart Beating as One, Yo La Tengo, 22 April 1997, 3.90, 14327, 184, Indie Rock, Noise Pop, warm, mellow, atmospheric, autumn, calm, soothing, noisy, nocturnal
+398, 399, Different Class, Pulp, 30 October 1995, 3.91, 12013, 218, Britpop, sexual, sarcastic, melodic, satirical, male vocals, bittersweet, anthemic, uplifting
+399, 400, The Fragile, Nine Inch Nails, 21 September 1999, 3.91, 12669, 226, Industrial Rock, Art Rock, Alternative Rock, dark, angry, depressive, sombre, introspective, sad, atmospheric, noisy
+400, 401, Deep Purple in Rock, Deep Purple, 3 June 1970, 3.91, 10395, 257, Hard Rock, energetic, heavy, male vocals, hedonistic, aggressive, sexual, raw, psychedelic
+401, 402, Rising, Rainbow, 17 May 1976, 3.92, 8660, 212, Hard Rock, Heavy Metal, epic, energetic, melodic, male vocals, triumphant, fantasy, passionate, heavy
+402, 403, Plastic Surgery Disasters, Dead Kennedys, November 1982, 3.93, 7863, 102, Hardcore Punk, sarcastic, satirical, energetic, raw, political, humorous, rebellious, angry
+403, 404, Obscura, Gorguts, 23 June 1998, 3.92, 7419, 164, Technical Death Metal, Avant-Garde Metal, Dissonant Death Metal, technical, uncommon time signatures, complex, dissonant, chaotic, atonal, heavy, avant-garde
+404, 405, Irish Tour '74, Rory Gallagher, 21 July 1974, 4.11, 1540, 39, Blues Rock, energetic, uplifting, male vocals, improvisation, passionate, playful, warm
+405, 406, The Real Royal Albert Hall 1966 Concert!, Bob Dylan, 2 December 2016, 4.15, 319, 3, Folk Rock, Singer-Songwriter, Contemporary Folk, cryptic, poetic, male vocals, sarcastic, passionate, raw
+406, 407, Youth of America, Wipers, 11 November 1981, 3.93, 7842, 106, Post-Punk, Punk Rock, anxious, dark, rebellious, passionate, energetic, political, sombre, raw
+407, 408, Anthems to the Welkin at Dusk, Emperor, 8 July 1997, 3.93, 7191, 107, Symphonic Black Metal, epic, dense, fantasy, male vocals, energetic, heavy, complex, atmospheric
+408, 409, Pawn Hearts, Van der Graaf Generator, October 1971, 3.93, 6854, 155, Progressive Rock, dark, philosophical, complex, lonely, epic, male vocals, eclectic, dissonant
+409, 410, Live at the Fillmore East, Neil Young & Crazy Horse, 14 November 2006, 4.12, 1551, 61, Folk Rock, Country Rock, Singer-Songwriter, male vocals
+410, 411, Computerwelt, Kraftwerk, 10 May 1981, 3.92, 10776, 165, Synthpop, Electronic, futuristic, mechanical, rhythmic, male vocals, playful, concept album, melodic, quirky
+411, 412, Individual Thought Patterns, Death, 30 June 1993, 3.92, 9145, 140, Technical Death Metal, philosophical, technical, complex, uncommon time signatures, male vocals, heavy, progressive, conscious
+412, 413, Yeezus, Kanye West, 18 June 2013, 3.79, 42586, 405, Experimental Hip Hop, Industrial Hip Hop, vulgar, aggressive, manic, boastful, sampling, noisy, angry, sexual
+413, 414, Script of the Bridge, The Chameleons, 1 August 1983, 3.93, 8561, 156, Post-Punk, melancholic, atmospheric, ethereal, introspective, cold, dark, male vocals, sombre
+414, 415, Close to a World Below, Immolation, 7 November 2000, 3.94, 4374, 78, Death Metal, infernal, anti-religious, misanthropic, hateful, heavy, nihilistic, dense, dark
+415, 416, Song for My Father (Cantiga para meu pai), The Horace Silver Quintet, January 1965, 3.96, 3530, 51, Hard Bop, instrumental, acoustic, improvisation, mellow, warm, melodic, energetic, autumn
+416, 417, Free for All, Art Blakey & The Jazz Messengers, July 1965, 3.96, 2447, 33, Hard Bop, instrumental, improvisation, energetic, acoustic, technical, passionate, rhythmic, complex
+417, 418, Keep It Like a Secret, Built to Spill, 2 February 1999, 3.92, 10508, 123, Indie Rock, melodic, male vocals, philosophical, bittersweet, summer, uplifting, introspective, melancholic
+418, 419, Darkness on the Edge of Town, Bruce Springsteen, 2 June 1978, 3.92, 8726, 170, Heartland Rock, Singer-Songwriter, bittersweet, melodic, passionate, poetic, urban, male vocals, romantic, sentimental
+419, 420, Somethin' Else, Cannonball Adderley, August 1958, 3.94, 5926, 111, Hard Bop, instrumental, improvisation, acoustic, mellow, melodic, soothing, autumn, nocturnal
+420, 421, The Nightwatch: Live at the Amsterdam Concertgebouw November 23rd 1973, King Crimson, November 1997, 4.12, 1168, 25, Progressive Rock, male vocals, heavy, improvisation, anxious, complex, uncommon time signatures, progressive, avant-garde
+421, 422, Rock Bottom, Robert Wyatt, 26 July 1974, 3.90, 10373, 205, Canterbury Scene, Art Rock, sombre, atmospheric, surreal, poetic, melancholic, male vocals, cryptic, romantic
+422, 423, Ghost Reveries, Opeth, 30 August 2005, 3.91, 10217, 218, Progressive Metal, ominous, occult, progressive, male vocals, melodic, complex, fantasy, heavy
+423, 424, Ashes Against the Grain, Agalloch, 8 August 2006, 3.92, 9567, 162, Post-Metal, melancholic, cold, winter, atmospheric, nature, sombre, pagan, male vocals
+424, 425, Stand!, Sly & The Family Stone, 3 May 1969, 3.94, 6547, 124, Psychedelic Soul, Funk, protest, uplifting, optimistic, male vocals, psychedelic, conscious, energetic, happy
+425, 426, Live at the Rainbow '74, Queen, 8 September 2014, 4.12, 465, 15, Hard Rock, male vocals, heavy, passionate, epic
+426, 427, LP!, JPEGMAFIA, 22 October 2021, 3.90, 13735, 101, Experimental Hip Hop, Hardcore Hip Hop, eclectic, psychedelic, sampling, dense, male vocals, rebellious, boastful, rhythmic
+427, 428, Black Unity, Pharoah Sanders, February 1972, 3.95, 3375, 42, Spiritual Jazz, instrumental, energetic, avant-garde, hypnotic, rhythmic, spiritual, progressive, improvisation
+428, 429, Dream Letter: Live in London 1968, Tim Buckley, 15 May 1990, 4.11, 1184, 38, Singer-Songwriter, Contemporary Folk, acoustic, passionate, introspective, melancholic, bittersweet, male vocals, conscious, poetic
+429, 430, L.A. Woman, The Doors, 29 April 1971, 3.89, 15443, 303, Blues Rock, Psychedelic Rock, male vocals, poetic, psychedelic, urban, cryptic, mysterious, dark, sexual
+430, 431, Mothership Connection, Parliament, 15 December 1975, 3.93, 6925, 103, P-Funk, science fiction, rhythmic, uplifting, playful, party, energetic, male vocals, hedonistic
+431, 432, Live and Dangerous, Thin Lizzy, 2 June 1978, 4.10, 2549, 111, Hard Rock, male vocals, energetic, triumphant, romantic, anthemic, heavy, longing, technical
+432, 433, You're Living All Over Me, Dinosaur, July 1987, 3.88, 16391, 218, Noise Rock, Indie Rock, Lo-Fi / Slacker Rock, noisy, lo-fi, raw, melancholic, male vocals, energetic, anxious, melodic
+433, 434, Astigmatic, Komeda Quintet, December 1966, 3.94, 4131, 39, Avant-Garde Jazz, Post-Bop, instrumental, avant-garde, improvisation, complex, acoustic, nocturnal, hypnotic, rhythmic
+434, 435, The Velvet Rope, Janet, 7 October 1997, 3.94, 4445, 50, Contemporary R&B, introspective, sexual, sensual, nocturnal, dark, LGBT, passionate, concept album
+435, 436, Electric Warrior, T. Rex, October 1971, 3.91, 10192, 245, Glam Rock, male vocals, sexual, playful, sensual, love, energetic, melodic, passionate
+436, 437, Stravinsky Conducts Le Sacre du printemps, Igor Stravinsky /, April 1961, 3.97, 1144, 4, Modern Classical, Orchestral, avant-garde, suspenseful, instrumental, epic, ritualistic, orchestral, polyphonic, apocalyptic
+437, 438, Bottomless Pit, Death Grips, 6 May 2016, 3.86, 23163, 114, Industrial Hip Hop, Abstract Hip Hop, Experimental Hip Hop, aggressive, chaotic, noisy, manic, energetic, vulgar, cryptic, male vocals
+438, 439, The Miseducation of Lauryn Hill, Lauryn Hill, 25 August 1998, 3.91, 11274, 142, Neo-Soul, Contemporary R&B, East Coast Hip Hop, female vocals, warm, love, romantic, breakup, urban, conscious, Christian
+439, 440, Through Silver in Blood, Neurosis, 2 April 1996, 3.91, 7719, 117, Atmospheric Sludge Metal, Sludge Metal, apocalyptic, dark, heavy, angry, dense, atmospheric, tribal, male vocals
+440, 441, Red House Painters [Rollercoaster], Red House Painters, 24 May 1993, 3.91, 8980, 127, Slowcore, melancholic, sombre, lonely, depressive, autumn, introspective, male vocals, sad
+441, 442, 救済の技法 (Kyuusai no gihou), 平沢進, 21 August 1998, 3.95, 2399, 15, Art Pop, Progressive Pop, Electronic, dense, epic, Wall of Sound, passionate, lush, ethereal, atmospheric, orchestral
+442, 443, At the Mountains of Madness, Electric Masada, 22 November 2005, 4.10, 1992, 43, Avant-Garde Jazz, Jazz Fusion, improvisation, heavy, dissonant, instrumental, chaotic, complex, noisy, epic
+443, 444, Sobrevivendo no inferno, Racionais MC's, October 1997, 3.95, 1609, 16, Conscious Hip Hop, Boom Bap, Hardcore Hip Hop, urban, crime, conscious, political, drugs, poetic, violence, male vocals
+444, 445, Quadrophenia, The Who, 26 October 1973, 3.91, 9464, 283, Rock Opera, Hard Rock, rock opera, introspective, epic, passionate, rebellious, energetic, bittersweet, male vocals
+445, 446, Sun Bear Concerts Piano Solo: Recorded in Japan, Keith Jarrett, January 1978, 4.11, 558, 15, ECM Style Jazz, improvisation, instrumental, mellow, acoustic, spiritual, technical, sparse, melancholic
+446, 447, In the Nightside Eclipse, Emperor, 21 February 1994, 3.91, 9646, 154, Symphonic Black Metal, Black Metal, atmospheric, cold, nocturnal, fantasy, epic, dark, mysterious, occult
+447, 448, África Brasil, Jorge Ben, 1976, 3.95, 3538, 47, Samba-rock, MPB, Funk, rhythmic, energetic, male vocals, uplifting, tropical, summer, sports, psychedelic
+448, 449, Requiem, Wolfgang Amadeus Mozart /, 1971, 3.97, 521, 2, Classical Period, Choral, Christian Liturgical Music, male vocals, female vocals, acoustic, Christian, death, sombre, choral, orchestral
+449, 450, Rétrospective Vol. 1 & 2, Magma, 1981, 4.11, 524, 7, Zeuhl, epic, science fiction, martial, avant-garde, dark, futuristic, heavy, apocalyptic
+450, 451, Emergency & I, The Dismemberment Plan, 26 October 1999, 3.89, 13387, 155, Indie Rock, anxious, lonely, uncommon time signatures, energetic, rhythmic, alienation, male vocals, bittersweet
+451, 452, The 6 String Quartets, Béla Bartók /, 1 December 1997, 3.96, 1070, 12, Modern Classical, Chamber Music, string quartet, suspenseful, instrumental, acoustic, anxious, complex, dissonant, atmospheric
+452, 453, Mos Def & Talib Kweli Are Black Star, Black Star, 29 September 1998, 3.92, 8540, 143, Conscious Hip Hop, East Coast Hip Hop, Boom Bap, conscious, urban, male vocals, political, rhythmic, mellow, nocturnal, calm
+453, 454, Pieces of a Man, Gil Scott-Heron, September 1971, 3.93, 5645, 67, Soul, political, conscious, urban, introspective, poetic, male vocals, passionate, bittersweet
+454, 455, Lady Soul, Aretha Franklin, 22 January 1968, 3.94, 4187, 62, Southern Soul, warm, female vocals, passionate, love, melodic, lush, sentimental, uplifting
+455, 456, Amnesiac, Radiohead, 4 June 2001, 3.79, 41060, 549, Art Rock, Experimental Rock, anxious, sombre, melancholic, atmospheric, cryptic, cold, mysterious, abstract
+456, 457, It's Alive, Ramones, April 1979, 4.09, 2259, 81, Punk Rock, energetic, male vocals, rebellious, anthemic, raw, playful, melodic, uplifting
+457, 458, Vigilante, Willie Colón &, 1983, 3.97, 645, 5, Salsa dura, progressive, urban, tropical, crime, rhythmic, passionate, lush, male vocals
+458, 459, Pinkerton, Weezer, 24 September 1996, 3.82, 26037, 428, Alternative Rock, Power Pop, lonely, love, anxious, male vocals, raw, passionate, longing, self-hatred
+459, 460, Crack the Skye, Mastodon, 23 March 2009, 3.89, 11696, 263, Progressive Metal, fantasy, progressive, concept album, psychedelic, male vocals, melodic, heavy, epic
+460, 461, Third, Soft Machine, 6 June 1970, 3.91, 8865, 179, Canterbury Scene, Jazz-Rock, Jazz Fusion, complex, atmospheric, uncommon time signatures, progressive, mysterious, avant-garde, male vocals, improvisation
+461, 462, Symphony No. 9 'From the New World', Antonín Dvořák /, 1984, 3.98, 386, 1, Romanticism, Symphony, instrumental, symphony, epic, orchestral, acoustic, energetic, lush, melodic
+462, 463, A Blaze in the Northern Sky, Darkthrone, 26 February 1992, 3.90, 9918, 133, Black Metal, cold, raw, nocturnal, lo-fi, satanic, aggressive, dark, winter
+463, 464, Scott 4, Scott Engel, November 1969, 3.91, 8718, 138, Baroque Pop, Singer-Songwriter, lush, poetic, melodic, male vocals, sombre, melancholic, orchestral, passionate
+464, 465, Dragon New Warm Mountain I Believe in You, Big Thief, 11 February 2022, 3.91, 9162, 102, Indie Folk, Folk Rock, Alt-Country, female vocals, eclectic, pastoral, soothing, peaceful, love, bittersweet, longing
+465, 466, Fare Forward Voyagers (Soldier's Choice), John Fahey, June 1973, 3.94, 4232, 53, American Primitivism, meditative, acoustic, instrumental, technical, hypnotic, spiritual, epic, progressive
+466, 467, Hemispheres, Rush, 29 October 1978, 3.91, 9051, 208, Progressive Rock, Hard Rock, uncommon time signatures, male vocals, technical, complex, progressive, mythology, fantasy, philosophical
+467, 468, Abraxas, Santana, 23 September 1970, 3.92, 7543, 150, Latin Rock, warm, rhythmic, psychedelic, passionate, summer, male vocals, uplifting, atmospheric
+468, 469, Mass in B minor, Johann Sebastian Bach /, 1985, 3.96, 1201, 12, Baroque Music, Choral, Christian Liturgical Music, Christian, religious, choral, spiritual, epic, acoustic, complex, polyphonic
+469, 470, Safe as Milk, Captain Beefheart & The Magic Band, September 1967, 3.89, 12735, 249, Blues Rock, Psychedelic Rock, playful, energetic, raw, psychedelic, surreal, male vocals, quirky, rhythmic
+470, 471, Zen Arcade, Hüsker Dü, July 1984, 3.89, 12189, 207, Post-Hardcore, Hardcore Punk, energetic, passionate, concept album, noisy, raw, aggressive, angry, rebellious
+471, 472, Zuma, Neil Young with Crazy Horse, 10 November 1975, 3.92, 7815, 169, Folk Rock, Singer-Songwriter, male vocals, passionate, melancholic, sentimental, melodic, pastoral, breakup, warm
+472, 473, Mystic Stylez, Three-6 Mafia, 25 May 1995, 3.92, 7533, 62, Memphis Rap, Horrorcore, Southern Hip Hop, crime, satanic, dark, violence, drugs, lo-fi, sexual, nocturnal
+473, 474, Speaking in Tongues, Talking Heads, 1 June 1983, 3.89, 15296, 144, New Wave, Synth Funk, playful, rhythmic, party, quirky, energetic, male vocals, sarcastic, anxious
+474, 475, Don't Break the Oath, Mercyful Fate, 7 September 1984, 3.91, 6209, 132, Heavy Metal, satanic, energetic, occult, male vocals, melodic, dark, heavy, suspenseful
+475, 476, Symphonie No. 9 / Moldau, Antonín Dvořák /, 1985, 3.97, 502, 2, Romanticism, Symphony, symphony, instrumental, epic, melodic, acoustic, orchestral, suspenseful, uplifting
+476, 477, Selected Ambient Works Volume II, Aphex Twin, 7 March 1994, 3.88, 15754, 226, Ambient, Electronic, atmospheric, mysterious, ominous, surreal, ethereal, minimalistic, instrumental, sparse
+477, 478, Mista Thug Isolation, Lil Ugly Mane, 11 February 2012, 3.89, 13037, 70, Memphis Rap, Southern Hip Hop, drugs, vulgar, misanthropic, crime, dark, humorous, sexual, boastful
+478, 479, Daughter of Darkness, Natural Snow Buildings, 27 January 2009, 3.93, 3291, 39, Drone, Free Folk, Ritual Ambient, ritualistic, hypnotic, spiritual, dark, noisy, repetitive, dense, avant-garde
+479, 480, Modal Soul, Nujabes, 11 November 2005, 3.91, 10257, 60, Jazz Rap, Instrumental Hip Hop, peaceful, soothing, mellow, sampling, warm, male vocals, atmospheric, bittersweet
+480, 481, Lifestylez ov da Poor & Dangerous, Big L, 28 March 1995, 3.92, 7400, 138, East Coast Hip Hop, Boom Bap, Hardcore Hip Hop, violence, urban, crime, vulgar, dark, boastful, aggressive, sampling
+481, 482, Tango: Zero Hour / Nuevo Tango: Hora Zero, Astor Piazzolla and The New Tango Quintet, September 1986, 3.95, 2033, 32, Tango nuevo, instrumental, passionate, mellow, complex, bittersweet, lush, progressive, urban
+482, 483, Live at the Fillmore East (March 7, 1970): It's About That Time, Miles Davis, 17 July 2001, 4.11, 503, 13, Jazz Fusion, apocalyptic, improvisation, rhythmic, surreal, raw, complex, psychedelic, heavy
+483, 484, California, Mr. Bungle, 13 July 1999, 3.89, 10587, 199, Experimental Rock, Art Rock, eclectic, playful, avant-garde, humorous, energetic, surreal, complex, manic
+484, 485, Deltron 3030, Deltron 3030, 17 October 2000, 3.90, 11500, 149, West Coast Hip Hop, Experimental Hip Hop, Abstract Hip Hop, science fiction, futuristic, concept album, male vocals, sampling, urban, mysterious, philosophical
+485, 486, Something Else by The Kinks, The Kinks, 15 September 1967, 3.91, 8000, 203, Pop Rock, Baroque Pop, bittersweet, melodic, playful, male vocals, autumn, quirky, poetic, warm
+486, 487, Wild Is the Wind, Nina Simone, June 1966, 3.94, 3417, 40, Vocal Jazz, Soul, female vocals, sentimental, melancholic, romantic, love, longing, sensual, breakup
+487, 488, Duke Ellington's Far East Suite, Duke Ellington, June 1967, 3.94, 3162, 49, Big Band, suite, instrumental, energetic, warm, acoustic, complex, rhythmic, passionate
+488, 489, Déjà vu, Crosby, Stills, Nash & Young, 11 March 1970, 3.91, 7937, 181, Folk Rock, warm, melodic, male vocals, mellow, calm, rhythmic, introspective, peaceful
+489, 490, Talking Book, Stevie Wonder, 28 October 1972, 3.92, 7763, 125, Soul, love, male vocals, passionate, melodic, mellow, uplifting, warm, optimistic
+490, 491, Feel Flows: The Sunflower & Surf's Up Sessions 1969–1971, The Beach Boys, 27 August 2021, 4.19, 279, 3, Pop Rock, Sunshine Pop, Psychedelic Pop, lush, male vocals, eclectic, love, aquatic, calm, melodic, introspective
+491, 492, Minecraft: Volume Alpha, C418, 4 March 2011, 4.03, 12020, 109, Video Game Music, Ambient, peaceful, atmospheric, mellow, soothing, lonely, instrumental, melancholic, meditative
+492, 493, Symphony No. 9 "Choral", Berlin Philharmonic Orchestra / Herbert von Karajan / Vienna Singverein / Anna Tomowa-Sintow / Agnes Baltsa / Peter Schreier / José Van Dam, 1986, 3.96, 445, 6, Symphony, Romanticism, choral, orchestral, epic, uplifting, acoustic, religious, melodic, technical
+493, 494, Reasonable Doubt, Jay-Z, 25 June 1996, 3.90, 10630, 164, East Coast Hip Hop, Boom Bap, Gangsta Rap, crime, boastful, urban, sombre, male vocals, drugs, introspective, serious
+494, 495, BBC Sessions, Led Zeppelin, 18 November 1997, 4.09, 2447, 64, Hard Rock, Blues Rock, passionate, male vocals, technical
+495, 496, Toxicity, System of a Down, 4 September 2001, 3.83, 22276, 410, Alternative Metal, political, manic, heavy, aggressive, male vocals, playful, conscious, energetic
+496, 497, No Other, Gene Clark, September 1974, 3.93, 3579, 114, Country Rock, Singer-Songwriter, melancholic, spiritual, introspective, male vocals, lonely, psychedelic, autumn, philosophical
+497, 498, Bergtatt: Et eeventyr i 5 capitler, Ulver, February 1995, 3.89, 11675, 144, Atmospheric Black Metal, Pagan Black Metal, forest, atmospheric, nature, fantasy, mythology, nocturnal, cold, concept album
+498, 499, Sextant, Herbie Hancock, 30 March 1973, 3.92, 5216, 71, Jazz Fusion, Avant-Garde Jazz, futuristic, space, instrumental, improvisation, psychedelic, avant-garde, surreal, hypnotic
+499, 500, Godbluff, Van der Graaf Generator, October 1975, 3.92, 4296, 95, Progressive Rock, philosophical, complex, poetic, dark, progressive, male vocals, eclectic, melodic
