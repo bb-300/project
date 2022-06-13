@@ -5,11 +5,14 @@ import requests
 from bs4 import BeautifulSoup
 import re
 
+#Если у Вас возникнут проблемы с стримлит проектом, пожалуйста, воспроизведите его через свой компьютер. Спасибо!
+#Решение математической задачи - в другом файле: problem.py
 
 st.title('This is a project, completed by an anonymous.')
 st.header('Project's main topic is music.')
 st.caption('This is a string that explains something above.')
 
+          
 with st.echo():
           
     @st.cache
